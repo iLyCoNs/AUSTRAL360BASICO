@@ -10,6 +10,16 @@
   "hideLoteFill": false,
   "loteFillOnHoverOnly": false,
   "loteHoverColor": "neon-green",
+  "aiProvider": "gemini",
+  "voiceMode": "auto_gigi",
+  "ttsOutputEnabled": false,
+  "aiKeys": {
+    "openrouter": "",
+    "groq": "",
+    "gemini": "kpk-enc-d0dsNjRDOXhfWGxGaUNHSjFhZndqVkJZYS1wc2pCVUtfdkQxQloxNnQ5bEw2TlI4YkEuUUE=",
+    "lightning": "kpk-enc-NzE3NzY5ODdjYzJhLTdhZTgtNGEyNC1iOTQzLTIyYjJhMTYyLXRpbC1rcw==",
+    "elevenlabs": "kpk-enc-YTgzNTE5NjZlZDE0Zjc1ODkwOTIzM2Y4MmY2MjdiYzhmNTRmYjg3MmE0ZDc5ZTY0X2tz"
+  },
   "contact": {
     "whatsapp": "",
     "formEmail": "",
@@ -23,22 +33,5 @@
     "waAlertsPhone": "",
     "waAlertsKey": ""
   },
-  "updatedAt": 1784540583184,
-  "plan": "basic",
-  "features": {
-    "copilot": false,
-    "voice": false,
-    "tourism": false,
-    "weather": false,
-    "calendar": false,
-    "finance": false,
-    "nearby": false,
-    "mapTab": false,
-    "gallery": true,
-    "pdf": true,
-    "cta360": true,
-    "buyerDockLotes": true,
-    "drawingTools": false,
-    "draggableWidgets": false
-  }
+  "updatedAt": 1784634358697
 }
