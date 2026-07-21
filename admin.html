@@ -1396,9 +1396,9 @@
               <input type="number" id="f-uf" placeholder="Ej: 1500" min="0" oninput="liveUpdate()">
             </div>
             <div class="efield full" style="grid-column: span 2;">
-              <label>Cualidades / Características Especiales (para la IA y Espectador)</label>
+              <label>Cualidades / Características (hashtags de la ficha)</label>
               <textarea id="f-caracteristicas" placeholder="Ej: Hermosa vista despejada, terreno 100% plano, árboles nativos, sol de tarde, cerca de la playa..." oninput="liveUpdate()" style="width: 100%; min-height: 80px; padding: 10px 12px; border-radius: 8px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); color: #fff; font-family: inherit; font-size: 13.5px; resize: vertical; outline: none; transition: border-color 0.2s;"></textarea>
-              <span class="brand-opt-hint" style="margin-top: 4px; display: block; font-size: 11px; color: var(--text-3);">Describe los detalles de valor de esta parcela. El Copiloto de Ventas IA las usará para buscar y responder de forma inteligente.</span>
+              <span class="brand-opt-hint" style="margin-top: 4px; display: block; font-size: 11px; color: var(--text-3);">Sepáralas por comas. Aparecen como hashtags (#) en la tarjeta del espectador.</span>
             </div>
             <div class="clp-line">
               <span>Valor estimado en CLP</span>
@@ -3268,23 +3268,6 @@ document.addEventListener('keydown', e => {
   })();
 </script>
 
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var form = document.getElementById('ed-form');
-  if (!form) return;
-  var chars = document.getElementById('f-caracteristicas');
-  if (chars) {
-    var wrap = chars.closest('.efield') || chars.parentElement;
-    if (wrap) wrap.style.display = 'none';
-  }
-  form.querySelectorAll('.ecard-title').forEach(function (el) {
-    if (/foto|galer/i.test(el.textContent || '')) {
-      var card = el.closest('.ecard');
-      if (card) card.style.display = 'none';
-    }
-  });
-});
-</script>
 
 </body>
 </html>
