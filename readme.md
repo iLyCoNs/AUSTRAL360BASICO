@@ -1,21 +1,20 @@
-# KPK V1 — Plan Básico
+﻿# KPK V1 — Plan Básico (ofuscado)
 
-Tour 360° limpio: viewer + fichas de lotes + contacto + CTA.
+Tour 360°: viewer + fichas + contacto + CTA.
 
-## Incluye
-- Panorama 360° con pins y overlays
-- Ficha spectator (estado, m², UF/CLP, WhatsApp, formulario)
-- Dock informativo (solo pestaña Lotes)
-- CTA «Consigue tu 360° aquí»
-- Admin: Lotes · Identidad simple · Contacto
-
-## No incluye (Premium)
-- Copiloto IA / voz
-- Agenda, financiamiento, turismo, clima
-- Cercanos OSM / minimapa avanzado
+## Estado
+- JS vital **ofuscado** (34 archivos).
+- Backup legible: `_clear_backup/`
+- Restaurar: `npm run restore-clear`
+- Re-ofuscar: `npm run obfuscate` (desde backup si restauraste)
 
 ## Arranque
-Abre `index.html` (o sirve la carpeta con un servidor estático).
-Admin: `admin.html`
+Abre `index.html` (servidor local recomendado).
+Admin: `admin.html` (sigue en claro para editar lotes/contacto).
 
-Plan flag: `data/plan.json`
+## No ofuscado (a propósito)
+pannellum.js · HTML/CSS · data/*.json · admin.html
+
+## Nota de seguridad
+La ofuscación dificulta el robo; en el navegador **no es imposible** extraer lógica.
+Para producción dura: hosting propio + no publicar keys.
