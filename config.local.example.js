@@ -1,4 +1,4 @@
-/**
+﻿/**
  * config.local.example.js — PLANTILLA (SÍ se sube al repo)
  *
  * Uso:
