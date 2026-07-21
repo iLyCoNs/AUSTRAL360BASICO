@@ -1270,7 +1270,7 @@
             <div class="egrid">
               <div class="efield full">
                 <label>WhatsApp ventas (solo numeros, con codigo pais)</label>
-                <input type="text" id="contact-whatsapp" placeholder="56912345678" inputmode="tel">
+                <input type="text" id="contact-whatsapp" placeholder="+569XXXXXXXX" inputmode="tel">
               </div>
               <div class="efield full">
                 <label>Correo FormSubmit (destino de consultas / reservas)</label>
@@ -1311,8 +1311,8 @@
                 </label>
               </div>
               <div class="efield">
-                <label>Tu número de celular (con código de país, ej: 56987491964)</label>
-                <input type="text" id="contact-wa-alerts-phone" placeholder="56987491964" inputmode="tel">
+                <label>Tu número de celular (con código de país, ej: +569XXXXXXXX)</label>
+                <input type="text" id="contact-wa-alerts-phone" placeholder="+569XXXXXXXX" inputmode="tel">
               </div>
               <div class="efield">
                 <label>API Key de CallMeBot (clave recibida por WhatsApp)</label>
@@ -1337,7 +1337,7 @@
               </div>
               <div class="efield">
                 <label>WhatsApp disenador</label>
-                <input type="text" id="contact-platform-wa" placeholder="569…" inputmode="tel">
+                <input type="text" id="contact-platform-wa" placeholder="+569XXXXXXXX" inputmode="tel">
               </div>
               <div class="efield full">
                 <label>Sitio web</label>
@@ -1500,8 +1500,8 @@ try {
   if (cachedBackup) _backupSmartPins = JSON.parse(cachedBackup);
 } catch(e) {}
 const CONTACT_DEFAULTS = {
-  whatsapp: '56987491964',
-  formEmail: 'perito.vidal@gmail.com',
+  whatsapp: '',
+  formEmail: '',
   formEnabled: true,
   platformCta: 'Consigue tu 360° aquí',
   platformWhatsapp: '',
