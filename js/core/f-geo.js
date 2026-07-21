@@ -1,1 +1,822 @@
-'use strict';(function(_0x23b5df,_0x136b2b){const _0x31b5c1=a0_0x594a,_0x2ce88c=_0x23b5df();while(!![]){try{const _0x295424=-parseInt(_0x31b5c1(0x262))/0x1*(-parseInt(_0x31b5c1(0x214))/0x2)+parseInt(_0x31b5c1(0x205))/0x3*(-parseInt(_0x31b5c1(0x221))/0x4)+-parseInt(_0x31b5c1(0x126))/0x5*(-parseInt(_0x31b5c1(0x116))/0x6)+-parseInt(_0x31b5c1(0x113))/0x7*(-parseInt(_0x31b5c1(0x1e2))/0x8)+-parseInt(_0x31b5c1(0x146))/0x9*(-parseInt(_0x31b5c1(0x14f))/0xa)+-parseInt(_0x31b5c1(0x195))/0xb*(parseInt(_0x31b5c1(0x19a))/0xc)+-parseInt(_0x31b5c1(0x18b))/0xd;if(_0x295424===_0x136b2b)break;else _0x2ce88c['push'](_0x2ce88c['shift']());}catch(_0x3fdfaf){_0x2ce88c['push'](_0x2ce88c['shift']());}}}(a0_0xc642,0xc9ec0));function a0_0x594a(_0x1f483e,_0x2bb335){_0x1f483e=_0x1f483e-0xee;const _0xc6426d=a0_0xc642();let _0x594a94=_0xc6426d[_0x1f483e];if(a0_0x594a['eCcyco']===undefined){var _0x1bd5bd=function(_0x10b74d){const _0xfcdb4='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xc1dccb='',_0x1c0bc3='';for(let _0x56d2a1=0x0,_0x27ebe5,_0x48bcd0,_0x39efa1=0x0;_0x48bcd0=_0x10b74d['charAt'](_0x39efa1++);~_0x48bcd0&&(_0x27ebe5=_0x56d2a1%0x4?_0x27ebe5*0x40+_0x48bcd0:_0x48bcd0,_0x56d2a1++%0x4)?_0xc1dccb+=String['fromCharCode'](0xff&_0x27ebe5>>(-0x2*_0x56d2a1&0x6)):0x0){_0x48bcd0=_0xfcdb4['indexOf'](_0x48bcd0);}for(let _0x259621=0x0,_0x16c437=_0xc1dccb['length'];_0x259621<_0x16c437;_0x259621++){_0x1c0bc3+='%'+('00'+_0xc1dccb['charCodeAt'](_0x259621)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1c0bc3);};a0_0x594a['JDJTDe']=_0x1bd5bd,a0_0x594a['yUSseD']={},a0_0x594a['eCcyco']=!![];}const _0x4f106a=_0xc6426d[0x0],_0x2f3701=_0x1f483e+_0x4f106a,_0x4e1f46=a0_0x594a['yUSseD'][_0x2f3701];return!_0x4e1f46?(_0x594a94=a0_0x594a['JDJTDe'](_0x594a94),a0_0x594a['yUSseD'][_0x2f3701]=_0x594a94):_0x594a94=_0x4e1f46,_0x594a94;}(function(){const _0x3431fe=a0_0x594a,_0x293638={'Yzafe':function(_0x295f1c,_0x3ddf10){return _0x295f1c==_0x3ddf10;},'DKJWj':function(_0xa98481,_0x210604){return _0xa98481===_0x210604;},'tMMiB':function(_0x462b3e,_0x366054){return _0x462b3e===_0x366054;},'RJoxT':_0x3431fe(0x1f5),'USSqV':function(_0x59aae8,_0x3cd528,_0x2255f8){return _0x59aae8(_0x3cd528,_0x2255f8);},'SxnYk':_0x3431fe(0x25d),'mhLrv':function(_0x3efea8,_0x154346){return _0x3efea8(_0x154346);},'MdEnK':function(_0x1f212e,_0x2ce6c8){return _0x1f212e===_0x2ce6c8;},'IOMvP':_0x3431fe(0x10e),'ACdyg':function(_0x5e1a19,_0x2dc55b){return _0x5e1a19<_0x2dc55b;},'oyRHB':function(_0x44b6bb,_0x31937b){return _0x44b6bb/_0x31937b;},'tcngZ':function(_0x542334,_0x234df3){return _0x542334*_0x234df3;},'ajWZr':_0x3431fe(0x222),'tpIVD':function(_0x15ff43,_0x7a76d9){return _0x15ff43===_0x7a76d9;},'YqXYM':'SOUTH','xSbyH':'lng','qDsDr':function(_0x31c481,_0x49c90a){return _0x31c481===_0x49c90a;},'DkwVU':function(_0x6e8afd,_0x52e320){return _0x6e8afd===_0x52e320;},'TWoAV':function(_0x33fcd5,_0x2c8728){return _0x33fcd5===_0x2c8728;},'gZpJO':function(_0x17ea59,_0x185766){return _0x17ea59===_0x185766;},'IJTFA':_0x3431fe(0x237),'CwBxs':function(_0x5e6c95,_0x199a36){return _0x5e6c95===_0x199a36;},'cqYTa':_0x3431fe(0x1c9),'wsBXe':function(_0x29e56d,_0x4fcf14){return _0x29e56d===_0x4fcf14;},'LXTeC':_0x3431fe(0x12c),'ACqWl':'EAST','vYKSr':function(_0x466fe1,_0x507d22){return _0x466fe1===_0x507d22;},'kZEgA':function(_0x1bf246,_0x53b6b5){return _0x1bf246(_0x53b6b5);},'OogrQ':function(_0x1f8cfb,_0x2b6f9e){return _0x1f8cfb===_0x2b6f9e;},'foyyI':function(_0x598def,_0x1114ca){return _0x598def>_0x1114ca;},'Exxsv':function(_0x27412c,_0x16bafb){return _0x27412c<_0x16bafb;},'PLJiT':function(_0x19c220,_0x4295b0){return _0x19c220>_0x4295b0;},'DuycQ':function(_0x427269,_0x486b9b){return _0x427269*_0x486b9b;},'aybrY':function(_0x938271,_0x27a270){return _0x938271||_0x27a270;},'iqYqY':function(_0x465e30,_0x2cf7ce){return _0x465e30(_0x2cf7ce);},'DMgNC':function(_0x43b6a3,_0x6b8a3){return _0x43b6a3!=_0x6b8a3;},'IcJvm':function(_0x4ab299,_0x552376){return _0x4ab299(_0x552376);},'bdthb':function(_0x36306a,_0x5b4b07){return _0x36306a>=_0x5b4b07;},'KdDPW':function(_0x17e0ff,_0x278d33){return _0x17e0ff*_0x278d33;},'QHEAc':function(_0x535de6,_0x65a27){return _0x535de6+_0x65a27;},'uoGHh':function(_0x37e1bc,_0x252942){return _0x37e1bc/_0x252942;},'SKCwo':function(_0x4a9500,_0x3e043f){return _0x4a9500===_0x3e043f;},'vATcI':function(_0x1c53fd,_0x20837d){return _0x1c53fd<_0x20837d;},'EFOTe':function(_0x1672e4,_0x2a62d9){return _0x1672e4*_0x2a62d9;},'GZnCo':function(_0x446ddf,_0x4292e4){return _0x446ddf(_0x4292e4);},'cHwyQ':function(_0x1f0371,_0x8e9338){return _0x1f0371||_0x8e9338;},'EoqsU':function(_0x587418,_0x4b29ca){return _0x587418>=_0x4b29ca;},'MQPcW':function(_0x233cab,_0x156bcf){return _0x233cab/_0x156bcf;},'NosGi':function(_0xc2d67,_0x18d8ee){return _0xc2d67-_0x18d8ee;},'otHMZ':function(_0x4547bc,_0x511cbc){return _0x4547bc*_0x511cbc;},'aFizh':function(_0x322145,_0x36174f){return _0x322145**_0x36174f;},'ieBdc':function(_0xe1c1e0,_0x14135e){return _0xe1c1e0*_0x14135e;},'jMrgw':function(_0x54c788,_0x257ef7){return _0x54c788/_0x257ef7;},'kdNho':function(_0xf21cea,_0x9ba59){return _0xf21cea*_0x9ba59;},'qTsLD':function(_0x2a6dcf,_0x43e4e9){return _0x2a6dcf-_0x43e4e9;},'mnkxY':function(_0x1ca6ab,_0x2c1532){return _0x1ca6ab-_0x2c1532;},'ryuva':function(_0x461527,_0x546f90){return _0x461527*_0x546f90;},'MoIyx':function(_0x3c8a75,_0x56e76a){return _0x3c8a75*_0x56e76a;},'pMsGP':function(_0x1b2490,_0x20c41a){return _0x1b2490%_0x20c41a;},'hYngn':function(_0x4a341a,_0x1425a1){return _0x4a341a==_0x1425a1;},'FXLAA':function(_0x18778c,_0x275964){return _0x18778c/_0x275964;},'UJnhL':function(_0x33da3c,_0x40c91e){return _0x33da3c/_0x40c91e;},'dScBy':_0x3431fe(0x256)+'n','lxDWX':function(_0x41abf6,_0x5d8461){return _0x41abf6!=_0x5d8461;},'KzypT':'Google','qZOyZ':_0x3431fe(0x246),'BRxNK':_0x3431fe(0x114)+_0x3431fe(0x100),'iMATP':function(_0x3c00c6,_0x5b65a3){return _0x3c00c6(_0x5b65a3);},'OIBrf':_0x3431fe(0x1d4)+_0x3431fe(0x16d),'DueKa':_0x3431fe(0x19e),'VSfXT':function(_0x19a76c,_0x2eede8){return _0x19a76c(_0x2eede8);},'vOpnA':function(_0x4ab8ce,_0xc8ecda){return _0x4ab8ce*_0xc8ecda;},'QfdaW':function(_0x9751ee){return _0x9751ee();},'XeXFw':function(_0x252513,_0x11e71b){return _0x252513(_0x11e71b);},'KEcoy':function(_0xcdb315,_0x4e719b){return _0xcdb315(_0x4e719b);},'TkSoA':_0x3431fe(0x1d5)+_0x3431fe(0x151)+_0x3431fe(0x25a)+'\x20OSRM\x20'+_0x3431fe(0x217)+_0x3431fe(0x1f7)+'e:','baeKd':function(_0x1bc1b3,_0x541954,_0x45d737,_0x49d7d9,_0xd4b1fa){return _0x1bc1b3(_0x541954,_0x45d737,_0x49d7d9,_0xd4b1fa);},'XUUMG':function(_0x51dc71,_0x254a04){return _0x51dc71!=_0x254a04;},'zzNaq':_0x3431fe(0x121)+'4|5|2|'+'6','IIwwv':function(_0x2a9695,_0x39f8f1){return _0x2a9695(_0x39f8f1);},'mXXtJ':function(_0x395240,_0x152fe1){return _0x395240(_0x152fe1);},'yvWyJ':function(_0x79279e){return _0x79279e();},'Klzdo':function(_0x33858c){return _0x33858c();},'SEdhC':function(_0x9a6e65){return _0x9a6e65();},'xmsrA':function(_0x209edc,_0xd17438){return _0x209edc%_0xd17438;},'GBYck':function(_0x131f97,_0x384fd3){return _0x131f97%_0x384fd3;},'BUbfb':'geo_','cyZvx':_0x3431fe(0x228),'dWTDM':function(_0x4c1f64,_0x543133){return _0x4c1f64!=_0x543133;},'JRRtw':function(_0x3be498,_0x159364){return _0x3be498!==_0x159364;},'XkVpp':function(_0xc46cdf,_0x283a66){return _0xc46cdf(_0x283a66);},'aXfnl':function(_0xd32097,_0x55d9c0){return _0xd32097(_0x55d9c0);},'TTbrf':function(_0x5013df){return _0x5013df();},'opSPt':function(_0x179dc6,_0x5b98ac,_0x2361a2){return _0x179dc6(_0x5b98ac,_0x2361a2);},'GLWDv':function(_0x492e86,_0x27ec10){return _0x492e86==_0x27ec10;},'iRGBx':function(_0x4ba8ff,_0x53e052){return _0x4ba8ff(_0x53e052);},'ztCim':function(_0x42b26d){return _0x42b26d();},'VhyuN':function(_0x5eff5c){return _0x5eff5c();},'ANCQP':function(_0x550660){return _0x550660();},'tdRYF':function(_0x49fc57){return _0x49fc57();},'pthkQ':function(_0x12e78a,_0x49b7f0,_0xcabd36){return _0x12e78a(_0x49b7f0,_0xcabd36);},'XGGCV':function(_0x28f3b7,_0x48e52e){return _0x28f3b7(_0x48e52e);},'jVqbv':function(_0x9b0a94,_0x506d31,_0x1c8377){return _0x9b0a94(_0x506d31,_0x1c8377);},'kRWKd':function(_0x4bbbe3,_0x13d56e){return _0x4bbbe3(_0x13d56e);},'mLYyf':function(_0x13fdba){return _0x13fdba();},'xUdUe':_0x3431fe(0x13a),'gfCeM':'[Ferra'+_0x3431fe(0x151)+_0x3431fe(0x174)+_0x3431fe(0x1ea)+_0x3431fe(0xf3)+_0x3431fe(0x18e)+_0x3431fe(0x179)+'s\x20loca'+_0x3431fe(0x1a5)+_0x3431fe(0x17a)+_0x3431fe(0x223)+'rigen/'+_0x3431fe(0x243)+'pins).','FjYJi':function(_0x5e1061,_0x478d67){return _0x5e1061&&_0x478d67;},'SSyvx':'[Ferra'+_0x3431fe(0x151)+_0x3431fe(0x130)+'ervand'+'o\x20orig'+_0x3431fe(0x12e)+_0x3431fe(0x12d)+'\x20recie'+_0x3431fe(0x1df)+_0x3431fe(0x1dc)+_0x3431fe(0x117),'CldiQ':'ferrar'+_0x3431fe(0x212)+'eo','YZAtu':_0x3431fe(0x1de)+_0x3431fe(0x212)+_0x3431fe(0x15c)+'ty','qoXXx':_0x3431fe(0x168),'KKGYz':_0x3431fe(0x23e),'PXlmC':_0x3431fe(0x233),'zflWG':_0x3431fe(0x1ff)+_0x3431fe(0x166),'GpbHE':_0x3431fe(0x138)+_0x3431fe(0x17f)+'cia','tWSOx':_0x3431fe(0x129)+'ia','OtdDY':_0x3431fe(0x13d)+'os','lhBiq':_0x3431fe(0xfa)+'o','YWlbk':_0x3431fe(0x148)+'g','SNJVZ':_0x3431fe(0x103)+'tentLo'+_0x3431fe(0xee)},_0x4d0b31=_0x293638[_0x3431fe(0x201)],_0x3b0cb0=_0x293638[_0x3431fe(0x169)],_0x260d4d={'droneOrigin':null,'northOffset':0x0,'pins':[],'updatedAt':null};let _0x4cc8b1=_0x293638[_0x3431fe(0x170)](localStorage[_0x3431fe(0x1e1)+'m'](_0x3b0cb0),'1');function _0x5643bb(){const _0x4eb97e=_0x3431fe;_0x4cc8b1=!![];try{localStorage[_0x4eb97e(0x11a)+'m'](_0x3b0cb0,'1');}catch(_0x3e43a7){}}function _0x487121(){const _0x3e683f=_0x3431fe;_0x4cc8b1=![];try{localStorage[_0x3e683f(0x25b)+'Item'](_0x3b0cb0);}catch(_0x122321){}}function _0x5a8a36(){return!!_0x4cc8b1;}function _0x1407a4(_0x2c79ec,_0x4148ce){const _0xa2ef9c=_0x3431fe;if(_0x293638[_0xa2ef9c(0xf8)](_0x2c79ec,null)||_0x293638[_0xa2ef9c(0x23b)](_0x2c79ec,''))return NaN;if(_0x293638[_0xa2ef9c(0x10b)](typeof _0x2c79ec,_0x293638['RJoxT'])){const _0x477f63=_0x293638[_0xa2ef9c(0x186)](_0x528a9e,_0x2c79ec,_0x4148ce);if(!isNaN(_0x477f63))return _0x477f63;}const _0x2fc695=typeof _0x2c79ec===_0x293638[_0xa2ef9c(0x105)]?_0x2c79ec:parseFloat(String(_0x2c79ec)[_0xa2ef9c(0x15d)]()['replac'+'e'](',','.'));if(!_0x293638[_0xa2ef9c(0x23d)](isFinite,_0x2fc695))return NaN;if(_0x293638[_0xa2ef9c(0x17b)](_0x4148ce,_0x293638[_0xa2ef9c(0xf2)])&&(_0x293638[_0xa2ef9c(0x1d0)](_0x2fc695,-0x5a)||_0x2fc695>0x5a))return NaN;if(_0x4148ce===_0xa2ef9c(0x19c)&&(_0x293638[_0xa2ef9c(0x1d0)](_0x2fc695,-0xb4)||_0x2fc695>0xb4))return NaN;return _0x293638[_0xa2ef9c(0x1ef)](Math['round'](_0x293638[_0xa2ef9c(0x21c)](_0x2fc695,0x5f5e100)),0x5f5e100);}function _0x5d586b(_0x2289aa,_0x2ff100){const _0x34604b=_0x3431fe;if(!_0x2289aa)return null;const _0x13d9af=String(_0x2289aa)[_0x34604b(0x15d)]()[_0x34604b(0x249)+_0x34604b(0x234)]()['normal'+_0x34604b(0x255)](_0x34604b(0x247))['replac'+'e'](/[\u0300-\u036f]/g,'');if(_0x13d9af==='S'||_0x13d9af===_0x293638[_0x34604b(0x24e)]||_0x293638['tpIVD'](_0x13d9af,_0x293638[_0x34604b(0x1f6)]))return _0x2ff100===_0x293638['xSbyH']?null:-0x1;if(_0x293638[_0x34604b(0x235)](_0x13d9af,'N')||_0x293638['DkwVU'](_0x13d9af,'NORTE')||_0x293638['TWoAV'](_0x13d9af,_0x34604b(0x162)))return _0x293638[_0x34604b(0x235)](_0x2ff100,'lng')?null:0x1;if(_0x293638['gZpJO'](_0x13d9af,'W')||_0x13d9af==='O'||_0x13d9af===_0x293638[_0x34604b(0x24c)]||_0x293638['CwBxs'](_0x13d9af,_0x293638[_0x34604b(0x11c)]))return _0x2ff100===_0x293638['IOMvP']?null:-0x1;if(_0x293638[_0x34604b(0x21a)](_0x13d9af,'E')||_0x13d9af===_0x293638[_0x34604b(0x1e3)]||_0x13d9af===_0x293638[_0x34604b(0x1c3)])return _0x2ff100===_0x293638[_0x34604b(0xf2)]?null:0x1;return null;}function _0x528a9e(_0x33187a,_0x5793e5){const _0xed89c4=_0x3431fe;if(_0x293638[_0xed89c4(0xf8)](_0x33187a,null)||_0x293638[_0xed89c4(0x170)](_0x33187a,''))return NaN;if(typeof _0x33187a===_0xed89c4(0x25d)){if(!_0x293638[_0xed89c4(0x10a)](isFinite,_0x33187a))return NaN;if(_0x293638[_0xed89c4(0x1f0)](_0x5793e5,_0x293638[_0xed89c4(0xf2)])&&(_0x293638[_0xed89c4(0x1d0)](_0x33187a,-0x5a)||_0x293638['foyyI'](_0x33187a,0x5a)))return NaN;if(_0x293638[_0xed89c4(0x17b)](_0x5793e5,_0xed89c4(0x19c))&&(_0x293638[_0xed89c4(0xf1)](_0x33187a,-0xb4)||_0x293638[_0xed89c4(0x1bf)](_0x33187a,0xb4)))return NaN;return Math[_0xed89c4(0x244)](_0x293638[_0xed89c4(0x1c8)](_0x33187a,0x5f5e100))/0x5f5e100;}let _0x3c0ce4=String(_0x33187a)[_0xed89c4(0x15d)]();if(!_0x3c0ce4)return NaN;_0x3c0ce4=_0x3c0ce4[_0xed89c4(0x142)+'e'](/(\d),(\d)/g,_0xed89c4(0x22e)),_0x3c0ce4=_0x3c0ce4[_0xed89c4(0x142)+'e'](/[º°]/g,'°')['replac'+'e'](/[′’]/g,'\x27')['replac'+'e'](/[″""]/g,'\x22')[_0xed89c4(0x142)+'e'](/\bdeg\b/gi,'°');let _0x1fe23b=0x1;const _0x578ed3=/\b(Norte|Sur|Este|Oeste|North|South|East|West|[NSWEO])\b/gi,_0x1d1067=_0x3c0ce4['match'](_0x578ed3);if(_0x1d1067&&_0x1d1067[_0xed89c4(0x109)]){for(let _0x67c637=_0x1d1067[_0xed89c4(0x109)]-0x1;_0x67c637>=0x0;_0x67c637--){const _0xbcfc39=_0x5d586b(_0x1d1067[_0x67c637],_0x293638[_0xed89c4(0x213)](_0x5793e5,_0x293638[_0xed89c4(0xf2)]));if(_0xbcfc39!=null){_0x1fe23b=_0xbcfc39;break;}}_0x3c0ce4=_0x3c0ce4[_0xed89c4(0x142)+'e'](_0x578ed3,'\x20');}if(/^\s*-/[_0xed89c4(0x112)](_0x3c0ce4))_0x1fe23b=-0x1,_0x3c0ce4=_0x3c0ce4[_0xed89c4(0x142)+'e'](/^\s*-/,'');else/^\s*\+/[_0xed89c4(0x112)](_0x3c0ce4)&&(_0x3c0ce4=_0x3c0ce4['replac'+'e'](/^\s*\+/,''));_0x3c0ce4=_0x3c0ce4[_0xed89c4(0x142)+'e'](/[°'"]/g,'\x20')[_0xed89c4(0x142)+'e'](/\s+/g,'\x20')[_0xed89c4(0x15d)]();const _0xeea6be=_0x3c0ce4[_0xed89c4(0x22d)](/\d+(?:\.\d+)?/g);if(!_0xeea6be||!_0xeea6be[_0xed89c4(0x109)])return NaN;const _0x362eb1=_0x293638['iqYqY'](parseFloat,_0xeea6be[0x0]),_0x4d7f4f=_0x293638[_0xed89c4(0x12b)](_0xeea6be[0x1],null)?_0x293638['iqYqY'](parseFloat,_0xeea6be[0x1]):0x0,_0x8ed6db=_0xeea6be[0x2]!=null?_0x293638[_0xed89c4(0x13b)](parseFloat,_0xeea6be[0x2]):0x0;if(![_0x362eb1,_0x4d7f4f,_0x8ed6db]['every'](isFinite))return NaN;if(_0x293638['bdthb'](_0x4d7f4f,0x3c)||_0x293638[_0xed89c4(0x133)](_0x8ed6db,0x3c))return NaN;let _0x56d9a1;_0x293638[_0xed89c4(0x235)](_0xeea6be[_0xed89c4(0x109)],0x1)?_0x56d9a1=_0x1fe23b*Math['abs'](_0x362eb1):_0x56d9a1=_0x293638[_0xed89c4(0x1e4)](_0x1fe23b,_0x293638['QHEAc'](Math[_0xed89c4(0x210)](_0x362eb1)+_0x4d7f4f/0x3c,_0x293638[_0xed89c4(0x1b4)](_0x8ed6db,0xe10)));if(_0x5793e5==='lat'&&(_0x56d9a1<-0x5a||_0x56d9a1>0x5a))return NaN;if(_0x293638[_0xed89c4(0x1c7)](_0x5793e5,_0xed89c4(0x19c))&&(_0x293638[_0xed89c4(0x1bd)](_0x56d9a1,-0xb4)||_0x56d9a1>0xb4))return NaN;return Math[_0xed89c4(0x244)](_0x293638[_0xed89c4(0x120)](_0x56d9a1,0x5f5e100))/0x5f5e100;}function _0x2f3f4b(_0x5162cf){const _0xf9623a=_0x3431fe;if(_0x293638[_0xf9623a(0xf8)](_0x5162cf,null))return null;let _0x19b29b=_0x293638[_0xf9623a(0x139)](String,_0x5162cf)[_0xf9623a(0x15d)]();if(!_0x19b29b)return null;_0x19b29b=_0x19b29b[_0xf9623a(0x142)+'e'](/^[(\[]+|[)\]]+$/g,'')[_0xf9623a(0x15d)](),_0x19b29b=_0x19b29b[_0xf9623a(0x142)+'e'](/(\d),(\d)/g,'$1.$2');let _0x22308f=null,_0x2e6801=null;const _0x402ecb=_0x19b29b[_0xf9623a(0x22d)](/^(.+?\b(?:Sur|Norte|South|North|S|N)\b)/i);if(_0x402ecb&&_0x293638[_0xf9623a(0x1d0)](_0x402ecb[0x0][_0xf9623a(0x109)],_0x19b29b[_0xf9623a(0x109)]-0x1)){const _0x9f8a43=_0x19b29b[_0xf9623a(0x1dd)](_0x402ecb[0x0][_0xf9623a(0x109)])[_0xf9623a(0x142)+'e'](/^[,;\s]+/,'')[_0xf9623a(0x15d)]();_0x9f8a43&&(_0x22308f=_0x402ecb[0x1][_0xf9623a(0x15d)](),_0x2e6801=_0x9f8a43);}if(_0x293638[_0xf9623a(0x14a)](!_0x22308f,!_0x2e6801)){const _0x113d27=_0x19b29b[_0xf9623a(0x175)](/[,;]/)[_0xf9623a(0xfb)](_0x1cf020=>_0x1cf020[_0xf9623a(0x15d)]())[_0xf9623a(0x219)](Boolean);_0x293638[_0xf9623a(0x21b)](_0x113d27[_0xf9623a(0x109)],0x2)&&(_0x22308f=_0x113d27[0x0],_0x2e6801=_0x113d27[_0xf9623a(0x1dd)](0x1)[_0xf9623a(0x23f)]('\x20')['trim']());}if(_0x293638['aybrY'](!_0x22308f,!_0x2e6801)){const _0xf72599=_0x19b29b[_0xf9623a(0x22d)](/^([+-]?\d+(?:\.\d+)?)\s+([+-]?\d+(?:\.\d+)?)$/);_0xf72599&&(_0x22308f=_0xf72599[0x1],_0x2e6801=_0xf72599[0x2]);}if(!_0x22308f||!_0x2e6801)return null;const _0x4e636b=_0x528a9e(_0x22308f,_0xf9623a(0x10e)),_0xe4ce33=_0x293638[_0xf9623a(0x186)](_0x528a9e,_0x2e6801,_0x293638[_0xf9623a(0x1e9)]);if(isNaN(_0x4e636b)||isNaN(_0xe4ce33))return null;return{'lat':_0x4e636b,'lng':_0xe4ce33};}function _0x12d244(){const _0x4430a3=_0x3431fe;_0x260d4d[_0x4430a3(0x227)+_0x4430a3(0x145)]=Date['now']();}const _0x14114c={'horizonte':{'volcan':{'label':_0x293638[_0x3431fe(0x164)],'emoji':'🌋'},'ciudad':{'label':_0x293638[_0x3431fe(0x17d)],'emoji':'🏙'},'lago':{'label':_0x293638['PXlmC'],'emoji':'💧'},'montana':{'label':_0x3431fe(0x20e)+'a','emoji':'⛰'},'mirador':{'label':_0x3431fe(0x229)+'r','emoji':'👁'},'otro':{'label':_0x3431fe(0x251),'emoji':'📍'}},'ruta':{'acceso':{'label':_0x3431fe(0x226),'emoji':'🚧'},'carretera':{'label':_0x3431fe(0x241)+'era','emoji':'🛣'},'camino':{'label':_0x3431fe(0x250),'emoji':'🥾'},'estacionamiento':{'label':_0x3431fe(0x1d1)+_0x3431fe(0x24a)+_0x3431fe(0x204),'emoji':'🅿'},'porton':{'label':'Portón','emoji':'🚪'},'otro':{'label':'Otro','emoji':'📌'}},'poi':{'hospital':{'label':'Hospit'+'al','emoji':'🏥'},'consultorio':{'label':_0x293638[_0x3431fe(0x157)],'emoji':'🩺'},'posta':{'label':_0x3431fe(0x190),'emoji':'🏥'},'sapu':{'label':_0x293638['GpbHE'],'emoji':'🚑'},'asistencia':{'label':_0x3431fe(0x1e5)+_0x3431fe(0x11d)+'édica','emoji':'💊'},'farmacia':{'label':_0x293638['tWSOx'],'emoji':'💊'},'comisaria':{'label':_0x3431fe(0x163)+_0x3431fe(0x23c),'emoji':'👮'},'reten':{'label':_0x3431fe(0x23a),'emoji':'🚓'},'bomberos':{'label':_0x293638[_0x3431fe(0x1eb)],'emoji':'🚒'},'colegio':{'label':_0x3431fe(0x238)+'o','emoji':'🏫'},'supermercado':{'label':_0x3431fe(0x257)+_0x3431fe(0x1db),'emoji':'🛒'},'comercio':{'label':_0x3431fe(0x199)+_0x3431fe(0x22f)+_0x3431fe(0x1d8),'emoji':'🏪'},'negocio':{'label':_0x293638[_0x3431fe(0x252)],'emoji':_0x3431fe(0x1a9)},'bencinera':{'label':_0x3431fe(0x1ca)+_0x3431fe(0x245),'emoji':'⛽'},'otro':{'label':_0x3431fe(0x251),'emoji':'📍'}}};function _0x16d4f5(_0x385383,_0x5e495c,_0x3e71b4,_0x572b47){const _0x2df4bb=_0x3431fe,_0x1ff40b=0x6136b8,_0x2e6486=_0x293638[_0x2df4bb(0x167)](Math['PI'],0xb4),_0x36277c=_0x293638[_0x2df4bb(0x191)](_0x3e71b4,_0x385383)*_0x2e6486,_0x3ed1dd=_0x293638['otHMZ'](_0x572b47-_0x5e495c,_0x2e6486),_0x2ab6af=Math['sin'](_0x293638[_0x2df4bb(0x1b4)](_0x36277c,0x2))**0x2+_0x293638[_0x2df4bb(0x120)](_0x293638[_0x2df4bb(0x1e4)](Math[_0x2df4bb(0x102)](_0x385383*_0x2e6486),Math[_0x2df4bb(0x102)](_0x3e71b4*_0x2e6486)),_0x293638[_0x2df4bb(0x1f4)](Math[_0x2df4bb(0x134)](_0x293638[_0x2df4bb(0x1ef)](_0x3ed1dd,0x2)),0x2));return _0x293638[_0x2df4bb(0x248)](_0x293638[_0x2df4bb(0x248)](0x2,_0x1ff40b),Math[_0x2df4bb(0x20c)](Math[_0x2df4bb(0x198)](0x1,Math[_0x2df4bb(0x1d9)](_0x2ab6af))));}function _0x4c2bd2(_0x34b61f,_0x19fd78,_0x44165c,_0x4fe1e6){const _0x2463ad=_0x3431fe,_0x593120=_0x293638[_0x2463ad(0x14d)](Math['PI'],0xb4),_0x543ac5=_0x293638[_0x2463ad(0xfc)](_0x34b61f,_0x593120),_0x37a3cd=_0x44165c*_0x593120,_0x21026c=_0x293638['KdDPW'](_0x293638[_0x2463ad(0x183)](_0x4fe1e6,_0x19fd78),_0x593120),_0x16bd6a=_0x293638[_0x2463ad(0x248)](Math[_0x2463ad(0x134)](_0x21026c),Math[_0x2463ad(0x102)](_0x37a3cd)),_0x19a930=_0x293638[_0x2463ad(0x1f3)](Math[_0x2463ad(0x102)](_0x543ac5)*Math[_0x2463ad(0x134)](_0x37a3cd),_0x293638[_0x2463ad(0x1d6)](Math[_0x2463ad(0x134)](_0x543ac5)*Math[_0x2463ad(0x102)](_0x37a3cd),Math[_0x2463ad(0x102)](_0x21026c)));return _0x293638[_0x2463ad(0xf5)](_0x293638['oyRHB'](_0x293638[_0x2463ad(0x1b1)](Math['atan2'](_0x16bd6a,_0x19a930),0xb4),Math['PI']),0x168)%0x168;}function _0x197e8d(_0x140e22){const _0x991c77=_0x3431fe;let _0x10e386=_0x140e22-_0x260d4d[_0x991c77(0x1d2)+_0x991c77(0x253)];return _0x10e386=_0x293638[_0x991c77(0x13e)](_0x293638[_0x991c77(0xf5)](_0x10e386,0x21c),0x168)-0xb4,_0x10e386;}function _0x3c4116(_0x3103a4){const _0x1e13b0=_0x3431fe;let _0x38300e=_0x293638[_0x1e13b0(0xf5)](_0x3103a4,_0x260d4d[_0x1e13b0(0x1d2)+'ffset']);return _0x38300e=_0x293638[_0x1e13b0(0x13e)](_0x293638[_0x1e13b0(0xf5)](_0x38300e%0x168,0x168),0x168),_0x38300e;}function _0x1844c0(_0x4e2d25){const _0x2b4376=_0x3431fe;if(_0x293638[_0x2b4376(0xf8)](_0x4e2d25,null)||_0x293638[_0x2b4376(0x14e)](isNaN,_0x4e2d25))return'—';if(_0x4e2d25<0x3e8)return Math['round'](_0x4e2d25)+'\x20m';if(_0x4e2d25<0x2710)return(_0x4e2d25/0x3e8)[_0x2b4376(0x110)+'d'](0x2)+'\x20km';return(_0x4e2d25/0x3e8)[_0x2b4376(0x110)+'d'](0x1)+_0x2b4376(0x25c);}function _0x1e8781(_0x5baca9,_0x2ec062){const _0x26799a=_0x3431fe;if(_0x293638[_0x26799a(0x1bc)](_0x5baca9,null)||isNaN(_0x5baca9))return'—';const _0x5cdcd8=_0x2ec062||0x2d,_0xdf4fde=_0x293638[_0x26799a(0x25e)](_0x5baca9/0x3e8,_0x5cdcd8)*0x3c;if(_0xdf4fde<0x1)return'<\x201\x20mi'+'n';if(_0xdf4fde<0x3c)return'≈\x20'+Math[_0x26799a(0x244)](_0xdf4fde)+_0x26799a(0x207);const _0x2736b0=Math['floor'](_0x293638['UJnhL'](_0xdf4fde,0x3c)),_0x463000=Math[_0x26799a(0x244)](_0x293638[_0x26799a(0x13e)](_0xdf4fde,0x3c));return'≈\x20'+_0x2736b0+_0x26799a(0x259)+_0x463000+'\x20min';}function _0x36817d(_0x30dad3){const _0x2e511e=_0x3431fe;if(_0x30dad3==null||isNaN(_0x30dad3))return'—';const _0x335e1b=_0x293638[_0x2e511e(0x14d)](_0x30dad3,0x3c);if(_0x335e1b<0x1)return _0x293638[_0x2e511e(0x1a3)];if(_0x335e1b<0x3c)return Math[_0x2e511e(0x13c)](0x1,Math[_0x2e511e(0x244)](_0x335e1b))+'\x20min';const _0x392735=Math[_0x2e511e(0x158)](_0x293638[_0x2e511e(0x14d)](_0x335e1b,0x3c)),_0x5bbb5f=Math[_0x2e511e(0x244)](_0x335e1b%0x3c);return _0x5bbb5f?_0x392735+_0x2e511e(0x259)+_0x5bbb5f+_0x2e511e(0x207):_0x392735+'\x20h';}function _0x52c3e8(_0x618831){const _0x1511c8=_0x3431fe;return!!(_0x618831&&_0x293638[_0x1511c8(0xf9)](_0x618831[_0x1511c8(0x10e)],null)&&_0x618831[_0x1511c8(0x19c)]!=null);}function _0x5e4809(_0x9ff752){const _0x4269e9=_0x3431fe;if(!_0x9ff752)return'—';const _0x55a2d9=_0x293638[_0x4269e9(0xf9)](_0x9ff752[_0x4269e9(0x161)+_0x4269e9(0x1aa)],null)?_0x9ff752[_0x4269e9(0x161)+_0x4269e9(0x1aa)]:_0x9ff752['routeD'+_0x4269e9(0x173)],_0x592961=_0x9ff752['_route'+_0x4269e9(0x1be)]!=null?_0x9ff752[_0x4269e9(0x161)+_0x4269e9(0x1be)]:_0x9ff752[_0x4269e9(0x153)+'ec'],_0x508475=_0x9ff752[_0x4269e9(0x161)+_0x4269e9(0x122)]||_0x9ff752['routeS'+_0x4269e9(0x1ab)]||'',_0x59b5b1=_0x55a2d9!=null&&_0x592961!=null,_0x2b2fa0=_0x9ff752[_0x4269e9(0x1af)]!=null,_0x3c2580=_0x508475===_0x4269e9(0x19e)||_0x9ff752[_0x4269e9(0x231)+_0x4269e9(0x16e)]?_0x293638[_0x4269e9(0x136)]:_0x293638[_0x4269e9(0x1c7)](_0x508475,_0x4269e9(0x188))?_0x293638[_0x4269e9(0x184)]:_0x4269e9(0x177);if(_0x59b5b1&&_0x2b2fa0&&_0x9ff752['tipo']===_0x293638[_0x4269e9(0x193)])return _0x3c2580+'\x20'+_0x293638[_0x4269e9(0x23d)](_0x1844c0,_0x55a2d9)+_0x4269e9(0xfd)+_0x36817d(_0x592961)+(_0x4269e9(0x203)+_0x4269e9(0x17e))+_0x293638[_0x4269e9(0x14e)](_0x1844c0,_0x9ff752[_0x4269e9(0x1af)]);if(_0x59b5b1)return _0x3c2580+'\x20'+_0x293638[_0x4269e9(0x16a)](_0x1844c0,_0x55a2d9)+_0x4269e9(0xfd)+_0x293638['iMATP'](_0x36817d,_0x592961);if(_0x2b2fa0){const _0x15958f='≈\x20'+_0x1844c0(_0x9ff752[_0x4269e9(0x1af)])+_0x4269e9(0xfd)+_0x293638[_0x4269e9(0x139)](_0x1e8781,_0x9ff752['_distM']);return _0x9ff752['tipo']===_0x293638[_0x4269e9(0x193)]?_0x15958f+(_0x4269e9(0x13f)+'a\x20rect'+'a\x20·\x20ca'+_0x4269e9(0x209)+_0x4269e9(0x178)+_0x4269e9(0x1a2)):_0x15958f;}return'—';}function _0x1fcb2a(_0x4f34c1){const _0x522773=_0x3431fe,_0x4ca216=_0x293638['OIBrf'][_0x522773(0x175)]('|');let _0x5ab1de=0x0;while(!![]){switch(_0x4ca216[_0x5ab1de++]){case'0':_0x4f34c1[_0x522773(0x161)+_0x522773(0x122)]=null;continue;case'1':if(_0x4f34c1['_route'+_0x522773(0x147)+_0x522773(0x24f)]!=null)_0x4f34c1[_0x522773(0x161)+_0x522773(0x147)+'onS']=null;continue;case'2':if(!_0x4f34c1)return;continue;case'3':_0x4f34c1[_0x522773(0x161)+_0x522773(0x1be)]=null;continue;case'4':_0x4f34c1[_0x522773(0x161)+'DistM']=null;continue;}break;}}function _0x58e89b(_0x103211){const _0xbf5193=_0x3431fe;if(!_0x103211)return;_0x103211['routeD'+_0xbf5193(0x173)]!=null&&_0x293638[_0xbf5193(0x12b)](_0x103211['routeS'+'ec'],null)&&(_0x103211[_0xbf5193(0x161)+_0xbf5193(0x1aa)]=_0x103211[_0xbf5193(0x187)+_0xbf5193(0x173)],_0x103211['_route'+_0xbf5193(0x1be)]=_0x103211['routeS'+'ec'],_0x103211[_0xbf5193(0x161)+_0xbf5193(0x122)]=_0x103211[_0xbf5193(0x153)+_0xbf5193(0x1ab)]||(_0x103211['routeM'+_0xbf5193(0x16e)]?_0x293638[_0xbf5193(0x20b)]:_0xbf5193(0x182)));}function _0x367b21(_0x4f6d55,_0x3ba366,_0x2ce4c7,_0x19b3a2){const _0x53233a=_0x3431fe,_0x479354=typeof _0x4f6d55===_0x53233a(0x1f5)?_0x386b8a(_0x4f6d55):_0x4f6d55;if(!_0x479354)return![];const _0x15adbc=_0x293638[_0x53233a(0x18f)](Number,_0x3ba366),_0x2f5ad3=_0x293638[_0x53233a(0x13b)](Number,_0x2ce4c7);if(!(_0x15adbc>0x0)||!(_0x2f5ad3>0x0)||isNaN(_0x15adbc)||isNaN(_0x2f5ad3))return![];return _0x479354[_0x53233a(0x187)+'istM']=Math['round'](_0x15adbc*0x3e8),_0x479354[_0x53233a(0x153)+'ec']=Math['round'](_0x293638[_0x53233a(0x15e)](_0x2f5ad3,0x3c)),_0x479354[_0x53233a(0x153)+_0x53233a(0x1ab)]=_0x19b3a2||_0x53233a(0x19e),_0x479354[_0x53233a(0x231)+_0x53233a(0x16e)]=!![],_0x293638[_0x53233a(0x10a)](_0x58e89b,_0x479354),_0x293638[_0x53233a(0x1fe)](_0x12d244),_0x293638[_0x53233a(0x1fe)](_0x5643bb),_0x313f75(),_0x2e6bf5(),window['Ferrar'+_0x53233a(0x180)+'ns']&&window[_0x53233a(0x1b2)+'iGeoPi'+'ns'][_0x53233a(0x1f8)+'rty']&&window[_0x53233a(0x1b2)+_0x53233a(0x180)+'ns'][_0x53233a(0x1f8)+_0x53233a(0x1c2)](),!![];}function _0x1b4313(_0xb2d9cb,_0x31cc9f){const _0x4b349b=_0x3431fe,_0x212351=_0x293638[_0x4b349b(0x16a)](String,_0x293638[_0x4b349b(0x213)](_0xb2d9cb,''))['trim']()[_0x4b349b(0x225)+'rCase']()[_0x4b349b(0x142)+'e'](',','.'),_0x487a91=String(_0x293638[_0x4b349b(0x213)](_0x31cc9f,''))[_0x4b349b(0x15d)]()[_0x4b349b(0x225)+_0x4b349b(0x234)]()[_0x4b349b(0x142)+'e'](',','.');let _0x1c5651=null;const _0x3952f1=_0x212351['match'](/([\d.]+)\s*km/)||_0x212351[_0x4b349b(0x22d)](/^([\d.]+)$/);if(_0x3952f1)_0x1c5651=parseFloat(_0x3952f1[0x1]);else{const _0x9a0000=_0x212351[_0x4b349b(0x22d)](/([\d.]+)\s*m(?:etros?)?$/);if(_0x9a0000)_0x1c5651=_0x293638[_0x4b349b(0x167)](_0x293638[_0x4b349b(0x1ce)](parseFloat,_0x9a0000[0x1]),0x3e8);}let _0x878ff0=null;if(_0x487a91){const _0x5c5098=_0x487a91['match'](/([\d.]+)\s*h/),_0x1ea5db=_0x487a91['match'](/([\d.]+)\s*m/),_0xb8c69d=_0x487a91[_0x4b349b(0x22d)](/^([\d.]+)$/);if(_0x5c5098||_0x1ea5db)_0x878ff0=_0x293638['QHEAc'](_0x5c5098?_0x293638[_0x4b349b(0x120)](parseFloat(_0x5c5098[0x1]),0x3c):0x0,_0x1ea5db?_0x293638[_0x4b349b(0x1ce)](parseFloat,_0x1ea5db[0x1]):0x0);else _0xb8c69d&&(_0x878ff0=_0x293638[_0x4b349b(0x21e)](parseFloat,_0xb8c69d[0x1]));}if(!(_0x1c5651>0x0)||!_0x293638[_0x4b349b(0x1da)](_0x878ff0,0x0))return null;return{'distKm':_0x1c5651,'etaMin':_0x878ff0};}const _0x3b9aaf=new Map();let _0x429ca5=Promise[_0x3431fe(0x1c0)+'e']();const _0x49a8af=_0x3431fe(0xfe)+'//rout'+_0x3431fe(0x215)+_0x3431fe(0x17c)+_0x3431fe(0x18d)+_0x3431fe(0x104)+'e/v1/d'+'riving';function _0x260294(_0x549e58,_0x4314f7,_0x12e86d,_0x3e1b89){const _0x36d98b=_0x3431fe;return[_0x549e58[_0x36d98b(0x110)+'d'](0x4),_0x4314f7[_0x36d98b(0x110)+'d'](0x4),_0x12e86d[_0x36d98b(0x110)+'d'](0x4),_0x3e1b89['toFixe'+'d'](0x4)][_0x36d98b(0x23f)]('|');}function _0x44e2c7(_0xa3aee0,_0x42f41c){const _0x583ed9=_0x3431fe,_0x51cccd={'AhTzu':'OSRM\x20','vPHDz':_0x583ed9(0x182),'WkWwS':_0x293638['TkSoA']},_0x14057f=_0x260d4d[_0x583ed9(0x152)+'rigin'];if(!_0x14057f||_0xa3aee0==null||_0x293638[_0x583ed9(0x1bc)](_0x42f41c,null))return Promise['resolv'+'e'](null);const _0x478317=_0x293638['baeKd'](_0x260294,_0x14057f[_0x583ed9(0x10e)],_0x14057f[_0x583ed9(0x19c)],_0xa3aee0,_0x42f41c);if(_0x3b9aaf[_0x583ed9(0x1d7)](_0x478317))return Promise[_0x583ed9(0x1c0)+'e'](_0x3b9aaf['get'](_0x478317));return _0x429ca5=_0x429ca5['then'](async()=>{const _0x179d96=_0x583ed9;if(_0x3b9aaf[_0x179d96(0x1d7)](_0x478317))return _0x3b9aaf[_0x179d96(0x1cb)](_0x478317);try{const _0xd730cb=_0x49a8af+'/'+_0x14057f[_0x179d96(0x19c)]+','+_0x14057f[_0x179d96(0x10e)]+';'+_0x42f41c+','+_0xa3aee0+('?overv'+_0x179d96(0x1ad)+_0x179d96(0x242)+_0x179d96(0x12a)+_0x179d96(0x21d)+_0x179d96(0x108)+_0x179d96(0x1e8)+'alse'),_0x3fb20e=await fetch(_0xd730cb);if(!_0x3fb20e['ok'])throw new Error(_0x51cccd[_0x179d96(0x1a4)]+_0x3fb20e[_0x179d96(0x118)]);const _0x4b5861=await _0x3fb20e[_0x179d96(0x19f)](),_0x14ef2d=_0x4b5861&&_0x4b5861[_0x179d96(0x111)]&&_0x4b5861[_0x179d96(0x111)][0x0];if(!_0x14ef2d)return _0x3b9aaf['set'](_0x478317,null),null;const _0x1cf275={'distM':_0x14ef2d[_0x179d96(0x185)+'ce'],'durationSec':_0x14ef2d['durati'+'on'],'source':_0x51cccd[_0x179d96(0x137)]};return _0x3b9aaf[_0x179d96(0x135)](_0x478317,_0x1cf275),_0x1cf275;}catch(_0x2540bc){return console[_0x179d96(0x10c)](_0x51cccd[_0x179d96(0x20f)],_0x2540bc[_0x179d96(0xf0)+'e']),_0x3b9aaf[_0x179d96(0x135)](_0x478317,null),null;}}),_0x429ca5;}async function _0x32650b(_0x4f4cf1){const _0x1df60d=_0x3431fe;if(!_0x260d4d[_0x1df60d(0x152)+'rigin'])return;const _0x2e3eed=_0x260d4d['pins'][_0x1df60d(0x219)](_0x2e1b73=>_0x2e1b73[_0x1df60d(0x10e)]!=null&&_0x2e1b73[_0x1df60d(0x19c)]!=null&&_0x52c3e8(_0x2e1b73));let _0xc0c129=![];for(const _0x2aad4e of _0x2e3eed){if(_0x2aad4e[_0x1df60d(0x231)+_0x1df60d(0x16e)]){_0x58e89b(_0x2aad4e);continue;}if(!_0x4f4cf1&&_0x293638['XUUMG'](_0x2aad4e[_0x1df60d(0x161)+_0x1df60d(0x1aa)],null)&&_0x293638[_0x1df60d(0x1ec)](_0x2aad4e['_route'+_0x1df60d(0x1be)],null))continue;const _0x2b0a1f=await _0x293638[_0x1df60d(0x186)](_0x44e2c7,_0x2aad4e[_0x1df60d(0x10e)],_0x2aad4e[_0x1df60d(0x19c)]);if(_0x2b0a1f){const _0x2be510=_0x293638[_0x1df60d(0x124)][_0x1df60d(0x175)]('|');let _0x1d119=0x0;while(!![]){switch(_0x2be510[_0x1d119++]){case'0':_0x2aad4e[_0x1df60d(0x161)+_0x1df60d(0x122)]=_0x2b0a1f[_0x1df60d(0x14c)];continue;case'1':_0x2aad4e[_0x1df60d(0x161)+_0x1df60d(0x1be)]=_0x2b0a1f[_0x1df60d(0xf6)+_0x1df60d(0x106)];continue;case'2':_0x2aad4e[_0x1df60d(0x153)+_0x1df60d(0x1ab)]=_0x2b0a1f[_0x1df60d(0x14c)];continue;case'3':_0x2aad4e[_0x1df60d(0x161)+_0x1df60d(0x1aa)]=_0x2b0a1f[_0x1df60d(0x10f)];continue;case'4':_0x2aad4e[_0x1df60d(0x187)+_0x1df60d(0x173)]=_0x2b0a1f[_0x1df60d(0x10f)];continue;case'5':_0x2aad4e[_0x1df60d(0x153)+'ec']=_0x2b0a1f[_0x1df60d(0xf6)+_0x1df60d(0x106)];continue;case'6':_0xc0c129=!![];continue;}break;}}}_0xc0c129&&window[_0x1df60d(0x1b2)+_0x1df60d(0x180)+'ns']&&window[_0x1df60d(0x1b2)+_0x1df60d(0x180)+'ns']['markDi'+_0x1df60d(0x1c2)]&&window[_0x1df60d(0x1b2)+_0x1df60d(0x180)+'ns'][_0x1df60d(0x1f8)+'rty']();}function _0x4fa732(_0x2cf558,_0x185ceb){const _0x42a25a=_0x3431fe;if(!_0x260d4d['droneO'+_0x42a25a(0x1c4)])return null;return _0x16d4f5(_0x260d4d[_0x42a25a(0x152)+'rigin'][_0x42a25a(0x10e)],_0x260d4d['droneO'+_0x42a25a(0x1c4)][_0x42a25a(0x19c)],_0x2cf558,_0x185ceb);}function _0x1761a7(_0x800173,_0x2ef4a9){const _0x43eb79=_0x3431fe,_0x452c5c=_0x260d4d[_0x43eb79(0x152)+_0x43eb79(0x1c4)],_0x46841d=_0x800173+','+_0x2ef4a9,_0x261265=_0x452c5c?_0x452c5c[_0x43eb79(0x10e)]+','+_0x452c5c[_0x43eb79(0x19c)]:'';return{'google':_0x261265?_0x43eb79(0xfe)+_0x43eb79(0x171)+_0x43eb79(0x19e)+_0x43eb79(0x1d3)+_0x43eb79(0x1a7)+'r/?api'+_0x43eb79(0x128)+'gin='+encodeURIComponent(_0x261265)+(_0x43eb79(0x1b7)+'nation'+'=')+encodeURIComponent(_0x46841d)+(_0x43eb79(0x14b)+'lmode='+'drivin'+'g'):_0x43eb79(0xfe)+_0x43eb79(0x171)+_0x43eb79(0x19e)+_0x43eb79(0x1d3)+_0x43eb79(0x218)+_0x43eb79(0x230)+_0x43eb79(0x1b8)+_0x43eb79(0x159)+encodeURIComponent(_0x46841d),'waze':_0x43eb79(0xfe)+_0x43eb79(0x1a6)+_0x43eb79(0x189)+_0x43eb79(0x261)+encodeURIComponent(_0x46841d)+(_0x43eb79(0x1f1)+_0x43eb79(0x1fd)+'s'),'place':_0x43eb79(0xfe)+_0x43eb79(0x171)+_0x43eb79(0x19e)+_0x43eb79(0x1d3)+'aps/se'+_0x43eb79(0x230)+_0x43eb79(0x1b8)+'query='+_0x293638[_0x43eb79(0x1a1)](encodeURIComponent,_0x46841d),'satellite':_0x43eb79(0xfe)+_0x43eb79(0x171)+_0x43eb79(0x19e)+_0x43eb79(0x1d3)+_0x43eb79(0x1a8)+_0x800173+','+_0x2ef4a9+(_0x43eb79(0x239)+_0x43eb79(0x132)+_0x43eb79(0x1b5))};}function _0x2e6bf5(){const _0x3f7542=_0x3431fe;window[_0x3f7542(0x1b2)+_0x3f7542(0x180)+'ns']&&window['Ferrar'+_0x3f7542(0x180)+'ns'][_0x3f7542(0x1f8)+_0x3f7542(0x1c2)]&&window[_0x3f7542(0x1b2)+_0x3f7542(0x180)+'ns'][_0x3f7542(0x1f8)+_0x3f7542(0x1c2)]();window[_0x3f7542(0x1b2)+_0x3f7542(0x202)+'ss']&&window['Ferrar'+_0x3f7542(0x202)+'ss'][_0x3f7542(0x176)+'h']&&window[_0x3f7542(0x1b2)+'iCompa'+'ss'][_0x3f7542(0x176)+'h']();try{document['dispat'+_0x3f7542(0x16c)+'t'](new CustomEvent(_0x3f7542(0x1de)+_0x3f7542(0x1ac)+_0x3f7542(0x22a)+'d'));}catch(_0x3b162a){}}function _0x3dfb6c(_0x5d1eb6,_0x41e0dc,_0x4cdb26){const _0x2568da=_0x3431fe,_0x4316c6=_0x293638[_0x2568da(0x186)](_0x1407a4,_0x5d1eb6,_0x2568da(0x10e)),_0x5b18f4=_0x293638['USSqV'](_0x1407a4,_0x41e0dc,_0x293638[_0x2568da(0x1e9)]);if(isNaN(_0x4316c6)||_0x293638[_0x2568da(0x20a)](isNaN,_0x5b18f4))return![];return _0x260d4d[_0x2568da(0x152)+_0x2568da(0x1c4)]={'lat':_0x4316c6,'lng':_0x5b18f4,'label':_0x293638['aybrY'](_0x4cdb26,_0x2568da(0x119)+_0x2568da(0x11b))[_0x2568da(0x15d)]()},_0x12d244(),_0x5643bb(),_0x4333db(),_0x313f75(),_0x293638[_0x2568da(0x1fe)](_0x2e6bf5),!![];}function _0xd31e9(){const _0x5e175a=_0x3431fe,_0x258488=('3|1|4|'+'2|5|0')['split']('|');let _0x6c5696=0x0;while(!![]){switch(_0x258488[_0x6c5696++]){case'0':_0x293638[_0x5e175a(0x149)](_0x2e6bf5);continue;case'1':_0x293638[_0x5e175a(0x107)](_0x12d244);continue;case'2':_0x293638[_0x5e175a(0x107)](_0x4333db);continue;case'3':_0x260d4d[_0x5e175a(0x152)+'rigin']=null;continue;case'4':_0x5643bb();continue;case'5':_0x313f75();continue;}break;}}function _0x42324d(_0x50b1ac){const _0x246b5c=_0x3431fe,_0x2e956e=(_0x246b5c(0x224)+_0x246b5c(0xf4)+_0x246b5c(0x22c))[_0x246b5c(0x175)]('|');let _0x31c809=0x0;while(!![]){switch(_0x2e956e[_0x31c809++]){case'0':if(_0x260d4d[_0x246b5c(0x1d2)+_0x246b5c(0x253)]>0xb4)_0x260d4d[_0x246b5c(0x1d2)+_0x246b5c(0x253)]-=0x168;continue;case'1':_0x313f75();continue;case'2':_0x5643bb();continue;case'3':_0x2e6bf5();continue;case'4':try{window['Ferrar'+'i']&&window['Ferrar'+'i'][_0x246b5c(0x1c6)]&&window[_0x246b5c(0x1b2)+'i'][_0x246b5c(0x1c6)][_0x246b5c(0x15b)+'thOffs'+'et']&&window[_0x246b5c(0x1b2)+'i']['viewer'][_0x246b5c(0x15b)+_0x246b5c(0x1b6)+'et'](_0x260d4d['northO'+_0x246b5c(0x253)]);}catch(_0x51ae39){}continue;case'5':_0x34b090();continue;case'6':_0x293638[_0x246b5c(0xef)](_0x12d244);continue;case'7':_0x260d4d[_0x246b5c(0x1d2)+_0x246b5c(0x253)]=_0x293638[_0x246b5c(0x1ba)](_0x293638[_0x246b5c(0x18c)](_0x50b1ac,0x168)+0x168,0x168);continue;}break;}}function _0x5ce489(_0x2f307f){_0x42324d(-_0x2f307f);}function _0x23f2c6(_0x60655c){const _0x2005d7=_0x3431fe,_0x11b5a3=Object[_0x2005d7(0x181)]({'id':window[_0x2005d7(0x1b2)+_0x2005d7(0x194)]&&window['Ferrar'+'iState'][_0x2005d7(0x155)+_0x2005d7(0x1b0)]?window[_0x2005d7(0x1b2)+'iState'][_0x2005d7(0x155)+_0x2005d7(0x1b0)]():_0x293638[_0x2005d7(0x1ae)]+Math[_0x2005d7(0x141)]()[_0x2005d7(0x240)+'ng'](0x24)[_0x2005d7(0x1dd)](0x2,0xa),'tipo':_0x293638[_0x2005d7(0x193)],'categoria':_0x293638[_0x2005d7(0x1a0)],'titulo':'','pitch':-0x8,'yaw':0x0,'lat':null,'lng':null,'notas':'','createdAt':Date[_0x2005d7(0x123)]()},_0x60655c||{});if(_0x293638[_0x2005d7(0x258)](_0x11b5a3[_0x2005d7(0x10e)],null)&&_0x11b5a3[_0x2005d7(0x19c)]!=null&&_0x260d4d['droneO'+'rigin']){const _0x1b5649=_0x4fa732(_0x11b5a3[_0x2005d7(0x10e)],_0x11b5a3[_0x2005d7(0x19c)]);_0x11b5a3[_0x2005d7(0x1af)]=_0x1b5649;const _0xcfb140=_0x4c2bd2(_0x260d4d[_0x2005d7(0x152)+_0x2005d7(0x1c4)][_0x2005d7(0x10e)],_0x260d4d[_0x2005d7(0x152)+_0x2005d7(0x1c4)][_0x2005d7(0x19c)],_0x11b5a3['lat'],_0x11b5a3[_0x2005d7(0x19c)]);_0x11b5a3[_0x2005d7(0x140)+'ng']=_0xcfb140,_0x60655c&&_0x293638[_0x2005d7(0x1f2)](_0x60655c[_0x2005d7(0x1e7)+'w'],![])&&(_0x11b5a3[_0x2005d7(0x1ee)]=_0x293638[_0x2005d7(0x192)](_0x197e8d,_0xcfb140)),_0x293638[_0x2005d7(0x22b)](_0x52c3e8,_0x11b5a3)?_0x11b5a3[_0x2005d7(0x231)+_0x2005d7(0x16e)]?_0x58e89b(_0x11b5a3):_0x44e2c7(_0x11b5a3[_0x2005d7(0x10e)],_0x11b5a3['lng'])[_0x2005d7(0x1c1)](_0x47b7a4=>{const _0x1c2b1c=_0x2005d7,_0x5b7b25=('1|6|0|'+_0x1c2b1c(0x131)+_0x1c2b1c(0x1cc))['split']('|');let _0x97a0f8=0x0;while(!![]){switch(_0x5b7b25[_0x97a0f8++]){case'0':_0x11b5a3[_0x1c2b1c(0x161)+_0x1c2b1c(0x1be)]=_0x47b7a4[_0x1c2b1c(0xf6)+_0x1c2b1c(0x106)];continue;case'1':if(!_0x47b7a4||_0x11b5a3[_0x1c2b1c(0x231)+_0x1c2b1c(0x16e)])return;continue;case'2':_0x11b5a3[_0x1c2b1c(0x187)+_0x1c2b1c(0x173)]=_0x47b7a4[_0x1c2b1c(0x10f)];continue;case'3':_0x11b5a3[_0x1c2b1c(0x153)+'ec']=_0x47b7a4[_0x1c2b1c(0xf6)+'onSec'];continue;case'4':window['Ferrar'+'iGeoPi'+'ns']&&window['Ferrar'+_0x1c2b1c(0x180)+'ns'][_0x1c2b1c(0x1f8)+'rty']&&window[_0x1c2b1c(0x1b2)+_0x1c2b1c(0x180)+'ns'][_0x1c2b1c(0x1f8)+_0x1c2b1c(0x1c2)]();continue;case'5':_0x11b5a3[_0x1c2b1c(0x153)+_0x1c2b1c(0x1ab)]=_0x47b7a4[_0x1c2b1c(0x14c)];continue;case'6':_0x11b5a3[_0x1c2b1c(0x161)+_0x1c2b1c(0x1aa)]=_0x47b7a4[_0x1c2b1c(0x10f)];continue;case'7':_0x11b5a3[_0x1c2b1c(0x161)+_0x1c2b1c(0x122)]=_0x47b7a4['source'];continue;}break;}})[_0x2005d7(0x208)](()=>{}):_0x293638[_0x2005d7(0x1ce)](_0x1fcb2a,_0x11b5a3);}return _0x260d4d[_0x2005d7(0x160)]['push'](_0x11b5a3),_0x12d244(),_0x5643bb(),_0x293638[_0x2005d7(0x1fe)](_0x313f75),_0x293638[_0x2005d7(0x143)](_0x2e6bf5),_0x11b5a3['id'];}function _0xc5a605(_0x131376,_0x59c4dd){const _0x15b193=_0x3431fe,_0x1377b4=_0x260d4d['pins']['find'](_0x46d328=>_0x46d328['id']===_0x131376);if(!_0x1377b4)return![];Object['assign'](_0x1377b4,_0x59c4dd);if(_0x1377b4[_0x15b193(0x10e)]!=null&&_0x1377b4[_0x15b193(0x19c)]!=null&&_0x260d4d['droneO'+_0x15b193(0x1c4)]){_0x1377b4['_distM']=_0x293638[_0x15b193(0x15a)](_0x4fa732,_0x1377b4[_0x15b193(0x10e)],_0x1377b4['lng']),_0x1377b4[_0x15b193(0x140)+'ng']=_0x4c2bd2(_0x260d4d['droneO'+_0x15b193(0x1c4)][_0x15b193(0x10e)],_0x260d4d[_0x15b193(0x152)+_0x15b193(0x1c4)][_0x15b193(0x19c)],_0x1377b4[_0x15b193(0x10e)],_0x1377b4[_0x15b193(0x19c)]);if(!_0x293638[_0x15b193(0x22b)](_0x52c3e8,_0x1377b4))_0x1fcb2a(_0x1377b4);else{if(_0x1377b4[_0x15b193(0x231)+_0x15b193(0x16e)]&&_0x293638['JRRtw'](_0x59c4dd[_0x15b193(0x231)+'anual'],![]))_0x58e89b(_0x1377b4);else{if(_0x59c4dd[_0x15b193(0x10e)]!=null||_0x59c4dd[_0x15b193(0x19c)]!=null||_0x59c4dd[_0x15b193(0x24d)]!=null)_0x293638[_0x15b193(0x19b)](_0x59c4dd[_0x15b193(0x231)+_0x15b193(0x16e)],null)&&(_0x1377b4['routeM'+_0x15b193(0x16e)]=![],_0x1377b4['routeD'+_0x15b193(0x173)]=null,_0x1377b4[_0x15b193(0x153)+'ec']=null,_0x1377b4[_0x15b193(0x153)+_0x15b193(0x1ab)]=null),_0x1377b4['_route'+_0x15b193(0x1aa)]=null,_0x1377b4[_0x15b193(0x161)+'Sec']=null,_0x293638[_0x15b193(0x186)](_0x44e2c7,_0x1377b4['lat'],_0x1377b4[_0x15b193(0x19c)])[_0x15b193(0x1c1)](_0x270dc5=>{const _0x100201=_0x15b193;if(!_0x270dc5||_0x1377b4['routeM'+_0x100201(0x16e)])return;_0x1377b4[_0x100201(0x161)+_0x100201(0x1aa)]=_0x270dc5[_0x100201(0x10f)],_0x1377b4[_0x100201(0x161)+_0x100201(0x1be)]=_0x270dc5[_0x100201(0xf6)+_0x100201(0x106)],_0x1377b4['_route'+_0x100201(0x122)]=_0x270dc5[_0x100201(0x14c)],_0x1377b4[_0x100201(0x187)+_0x100201(0x173)]=_0x270dc5[_0x100201(0x10f)],_0x1377b4['routeS'+'ec']=_0x270dc5[_0x100201(0xf6)+_0x100201(0x106)],_0x1377b4['routeS'+_0x100201(0x1ab)]=_0x270dc5[_0x100201(0x14c)],window[_0x100201(0x1b2)+_0x100201(0x180)+'ns']&&window[_0x100201(0x1b2)+_0x100201(0x180)+'ns'][_0x100201(0x1f8)+'rty']&&window[_0x100201(0x1b2)+'iGeoPi'+'ns'][_0x100201(0x1f8)+_0x100201(0x1c2)]();})[_0x15b193(0x208)](()=>{});else(_0x59c4dd[_0x15b193(0x231)+'anual']||_0x293638[_0x15b193(0x1ec)](_0x59c4dd[_0x15b193(0x187)+_0x15b193(0x173)],null))&&_0x293638[_0x15b193(0x1cd)](_0x58e89b,_0x1377b4);}}}else _0x1377b4[_0x15b193(0x1af)]=null,_0x1377b4[_0x15b193(0x140)+'ng']=null,_0x293638['XeXFw'](_0x1fcb2a,_0x1377b4);return _0x293638[_0x15b193(0x232)](_0x12d244),_0x293638[_0x15b193(0x15f)](_0x5643bb),_0x313f75(),_0x293638[_0x15b193(0x1fe)](_0x2e6bf5),!![];}function _0x24e433(_0x2279c9){const _0x267506=_0x3431fe,_0x3d0359=_0x260d4d[_0x267506(0x160)][_0x267506(0x1f9)+_0x267506(0x1e0)](_0x406c11=>_0x406c11['id']===_0x2279c9);if(_0x293638['tMMiB'](_0x3d0359,-0x1))return![];return _0x260d4d[_0x267506(0x160)][_0x267506(0x1c5)](_0x3d0359,0x1),_0x12d244(),_0x5643bb(),_0x293638[_0x267506(0x1fc)](_0x313f75),_0x293638['tdRYF'](_0x2e6bf5),!![];}function _0x386b8a(_0x410e9a){const _0x483feb=_0x3431fe;return _0x260d4d['pins'][_0x483feb(0xff)](_0x27fd26=>_0x27fd26['id']===_0x410e9a)||null;}function _0x4333db(){const _0x11cbb7=_0x3431fe,_0x4e0b55={'sbBMW':function(_0x5d7d0c,_0x15d390){return _0x5d7d0c!=_0x15d390;},'PyEgq':function(_0x324a7d,_0x2c4e7c,_0x28ebd7){const _0x1c6e4f=a0_0x594a;return _0x293638[_0x1c6e4f(0x1e6)](_0x324a7d,_0x2c4e7c,_0x28ebd7);},'roNZJ':function(_0x372d66,_0x27e54d,_0x257a9c,_0x6379b7,_0x50b398){return _0x372d66(_0x27e54d,_0x257a9c,_0x6379b7,_0x50b398);},'oscHY':function(_0x4656bf,_0x227755){return _0x293638['XGGCV'](_0x4656bf,_0x227755);}};_0x260d4d['pins'][_0x11cbb7(0x260)+'h'](_0x3fcfc5=>{const _0x1f40ff=_0x11cbb7;_0x3fcfc5[_0x1f40ff(0x10e)]!=null&&_0x4e0b55[_0x1f40ff(0x1cf)](_0x3fcfc5[_0x1f40ff(0x19c)],null)&&_0x260d4d[_0x1f40ff(0x152)+_0x1f40ff(0x1c4)]?(_0x3fcfc5[_0x1f40ff(0x1af)]=_0x4e0b55[_0x1f40ff(0x156)](_0x4fa732,_0x3fcfc5['lat'],_0x3fcfc5[_0x1f40ff(0x19c)]),_0x3fcfc5[_0x1f40ff(0x140)+'ng']=_0x4e0b55[_0x1f40ff(0x165)](_0x4c2bd2,_0x260d4d[_0x1f40ff(0x152)+_0x1f40ff(0x1c4)][_0x1f40ff(0x10e)],_0x260d4d[_0x1f40ff(0x152)+_0x1f40ff(0x1c4)][_0x1f40ff(0x19c)],_0x3fcfc5[_0x1f40ff(0x10e)],_0x3fcfc5[_0x1f40ff(0x19c)]),_0x4e0b55[_0x1f40ff(0x206)](_0x58e89b,_0x3fcfc5)):(_0x3fcfc5['_distM']=null,_0x3fcfc5[_0x1f40ff(0x140)+'ng']=null,_0x3fcfc5['_route'+_0x1f40ff(0x1aa)]=null,_0x3fcfc5[_0x1f40ff(0x161)+_0x1f40ff(0x1be)]=null);}),_0x32650b(!![])[_0x11cbb7(0x208)](()=>{});}function _0x34b090(){const _0x4fd64f=_0x3431fe;if(!_0x260d4d[_0x4fd64f(0x152)+'rigin'])return;_0x260d4d[_0x4fd64f(0x160)]['forEac'+'h'](_0x2bb33f=>{const _0x24d221=_0x4fd64f;if(_0x2bb33f[_0x24d221(0x10e)]==null||_0x293638[_0x24d221(0xf8)](_0x2bb33f['lng'],null))return;if(_0x2bb33f['lockYa'+'w'])return;_0x2bb33f['yaw']=_0x293638['kZEgA'](_0x197e8d,_0x2bb33f[_0x24d221(0x140)+'ng']!=null?_0x2bb33f[_0x24d221(0x140)+'ng']:_0x293638[_0x24d221(0x16b)](_0x4c2bd2,_0x260d4d[_0x24d221(0x152)+_0x24d221(0x1c4)][_0x24d221(0x10e)],_0x260d4d[_0x24d221(0x152)+'rigin'][_0x24d221(0x19c)],_0x2bb33f[_0x24d221(0x10e)],_0x2bb33f[_0x24d221(0x19c)]));});}function _0xd5aa4c(){const _0x3c89b0=_0x3431fe;return{'version':0x1,'updatedAt':_0x260d4d[_0x3c89b0(0x227)+'dAt']||null,'droneOrigin':_0x260d4d[_0x3c89b0(0x152)+'rigin']?{'lat':_0x260d4d[_0x3c89b0(0x152)+_0x3c89b0(0x1c4)][_0x3c89b0(0x10e)],'lng':_0x260d4d['droneO'+_0x3c89b0(0x1c4)]['lng'],'label':_0x260d4d['droneO'+_0x3c89b0(0x1c4)][_0x3c89b0(0x211)]||'Origen'+_0x3c89b0(0x11b)}:null,'northOffset':_0x260d4d['northO'+_0x3c89b0(0x253)],'pins':_0x260d4d[_0x3c89b0(0x160)][_0x3c89b0(0xfb)](_0x2e4e98=>({'id':_0x2e4e98['id'],'tipo':_0x2e4e98[_0x3c89b0(0x24d)],'categoria':_0x2e4e98[_0x3c89b0(0x197)+_0x3c89b0(0x196)],'titulo':_0x2e4e98['titulo'],'pitch':_0x2e4e98[_0x3c89b0(0x1ed)],'yaw':_0x2e4e98[_0x3c89b0(0x1ee)],'lat':_0x2e4e98['lat'],'lng':_0x2e4e98[_0x3c89b0(0x19c)],'notas':_0x2e4e98[_0x3c89b0(0x1b3)]||'','lockYaw':!!_0x2e4e98[_0x3c89b0(0x154)+'w'],'createdAt':_0x2e4e98['create'+_0x3c89b0(0x145)],'routeDistM':_0x2e4e98[_0x3c89b0(0x187)+_0x3c89b0(0x173)]!=null?_0x2e4e98['routeD'+'istM']:_0x2e4e98[_0x3c89b0(0x161)+_0x3c89b0(0x1aa)]!=null?_0x2e4e98[_0x3c89b0(0x161)+_0x3c89b0(0x1aa)]:null,'routeSec':_0x2e4e98[_0x3c89b0(0x153)+'ec']!=null?_0x2e4e98[_0x3c89b0(0x153)+'ec']:_0x2e4e98[_0x3c89b0(0x161)+_0x3c89b0(0x1be)]!=null?_0x2e4e98[_0x3c89b0(0x161)+_0x3c89b0(0x1be)]:null,'routeSource':_0x2e4e98[_0x3c89b0(0x153)+'ource']||_0x2e4e98[_0x3c89b0(0x161)+_0x3c89b0(0x122)]||null,'routeManual':!!_0x2e4e98[_0x3c89b0(0x231)+_0x3c89b0(0x16e)]}))};}function _0x483659(_0x647760){const _0x5ad707=_0x3431fe;if(!_0x647760||typeof _0x647760!==_0x5ad707(0x13a))return;let _0x56fe00=_0x647760[_0x5ad707(0x152)+'rigin']||null;if(_0x56fe00&&_0x56fe00['lat']!=null&&_0x56fe00['lng']!=null){const _0x29201e=_0x293638[_0x5ad707(0x186)](_0x1407a4,_0x56fe00[_0x5ad707(0x10e)],_0x293638['IOMvP']),_0x2fdc9c=_0x293638[_0x5ad707(0x236)](_0x1407a4,_0x56fe00[_0x5ad707(0x19c)],_0x293638['xSbyH']);_0x56fe00=_0x293638[_0x5ad707(0x25f)](isNaN,_0x29201e)||isNaN(_0x2fdc9c)?null:{'lat':_0x29201e,'lng':_0x2fdc9c,'label':(_0x56fe00[_0x5ad707(0x211)]||_0x5ad707(0x119)+_0x5ad707(0x11b))[_0x5ad707(0x15d)]()};}else _0x56fe00=null;_0x260d4d[_0x5ad707(0x152)+_0x5ad707(0x1c4)]=_0x56fe00,_0x260d4d['northO'+_0x5ad707(0x253)]=typeof _0x647760[_0x5ad707(0x1d2)+'ffset']===_0x5ad707(0x25d)?_0x647760['northO'+_0x5ad707(0x253)]:0x0,_0x260d4d[_0x5ad707(0x160)]=Array[_0x5ad707(0x11f)+'y'](_0x647760[_0x5ad707(0x160)])?_0x647760[_0x5ad707(0x160)][_0x5ad707(0x1dd)]():[],_0x260d4d[_0x5ad707(0x227)+_0x5ad707(0x145)]=typeof _0x647760['update'+_0x5ad707(0x145)]===_0x293638['SxnYk']?_0x647760[_0x5ad707(0x227)+'dAt']:null,_0x293638['QfdaW'](_0x4333db);try{window[_0x5ad707(0x1b2)+'i']&&window['Ferrar'+'i'][_0x5ad707(0x1c6)]&&window['Ferrar'+'i'][_0x5ad707(0x1c6)]['setNor'+_0x5ad707(0x1b6)+'et']&&window['Ferrar'+'i'][_0x5ad707(0x1c6)][_0x5ad707(0x15b)+_0x5ad707(0x1b6)+'et'](_0x260d4d[_0x5ad707(0x1d2)+_0x5ad707(0x253)]);}catch(_0x58bd5e){}_0x293638['mLYyf'](_0x2e6bf5);}function _0x5aff1d(_0x53267a){const _0x480d29=_0x3431fe;if(!_0x53267a||typeof _0x53267a!==_0x293638[_0x480d29(0x216)])return![];if(_0x4cc8b1)return console[_0x480d29(0x101)](_0x293638[_0x480d29(0xf7)]),![];let _0x785c72=null;try{const _0x44fa71=localStorage[_0x480d29(0x1e1)+'m'](_0x4d0b31);if(_0x44fa71)_0x785c72=JSON[_0x480d29(0x20d)](_0x44fa71);}catch(_0x1e0afa){}const _0x35e3ed=_0x53267a['droneO'+_0x480d29(0x1c4)]||null,_0xcd5347=_0x785c72&&_0x785c72['droneO'+'rigin']||_0x260d4d[_0x480d29(0x152)+_0x480d29(0x1c4)]||null,_0x12ceb4=_0x785c72&&_0x785c72[_0x480d29(0x227)+_0x480d29(0x145)]||_0x260d4d[_0x480d29(0x227)+_0x480d29(0x145)]||0x0,_0x4c2864=_0x53267a['update'+'dAt']||0x0,_0x387e61=Object[_0x480d29(0x181)]({},_0x53267a);if(_0xcd5347&&!_0x35e3ed)_0x387e61[_0x480d29(0x152)+_0x480d29(0x1c4)]=_0xcd5347,_0x785c72&&typeof _0x785c72[_0x480d29(0x1d2)+_0x480d29(0x253)]===_0x480d29(0x25d)&&(_0x387e61[_0x480d29(0x1d2)+_0x480d29(0x253)]=_0x785c72[_0x480d29(0x1d2)+_0x480d29(0x253)]),console['log'](_0x480d29(0x1d5)+_0x480d29(0x151)+']\x20Cons'+_0x480d29(0x200)+_0x480d29(0x144)+'en\x20loc'+'al\x20(re'+_0x480d29(0x11e)+_0x480d29(0x254)+_0x480d29(0x1fa)+_0x480d29(0x220));else _0x293638['FjYJi'](_0xcd5347,_0x35e3ed)&&_0x12ceb4>_0x4c2864&&(_0x387e61[_0x480d29(0x152)+_0x480d29(0x1c4)]=_0xcd5347,_0x785c72&&typeof _0x785c72[_0x480d29(0x1d2)+_0x480d29(0x253)]===_0x480d29(0x25d)&&(_0x387e61[_0x480d29(0x1d2)+_0x480d29(0x253)]=_0x785c72['northO'+'ffset']),console[_0x480d29(0x101)](_0x293638[_0x480d29(0x150)]));_0x483659(_0x387e61);try{localStorage[_0x480d29(0x11a)+'m'](_0x4d0b31,JSON['string'+_0x480d29(0x21f)](_0xd5aa4c()));}catch(_0x19178c){}return _0x487121(),!![];}function _0x313f75(){const _0xdba6e1=_0x3431fe;try{localStorage['setIte'+'m'](_0x4d0b31,JSON[_0xdba6e1(0x1f5)+_0xdba6e1(0x21f)](_0xd5aa4c()));try{const _0x5d006b=localStorage[_0xdba6e1(0x1e1)+'m'](_0xdba6e1(0x1de)+_0xdba6e1(0x1bb)+_0xdba6e1(0x1fb)),_0x2bda05=_0x5d006b?JSON[_0xdba6e1(0x20d)](_0x5d006b):{'version':0x1,'lotes':[]};_0x2bda05[_0xdba6e1(0x127)]=_0xd5aa4c(),_0x2bda05[_0xdba6e1(0x227)+_0xdba6e1(0x145)]=Date[_0xdba6e1(0x123)](),localStorage['setIte'+'m'](_0xdba6e1(0x1de)+_0xdba6e1(0x1bb)+_0xdba6e1(0x1fb),JSON[_0xdba6e1(0x1f5)+_0xdba6e1(0x21f)](_0x2bda05));}catch(_0x96f68d){}}catch(_0x3ab024){console[_0xdba6e1(0x10c)](_0xdba6e1(0x1d5)+_0xdba6e1(0x151)+_0xdba6e1(0x1b9)+_0xdba6e1(0x19d)+'\x20guard'+_0xdba6e1(0x172)+'al',_0x3ab024);}}function _0x29f418(){const _0x463617=_0x3431fe;try{const _0x3514e6=localStorage[_0x463617(0x1e1)+'m'](_0x4d0b31);if(!_0x3514e6)return;_0x293638[_0x463617(0x192)](_0x483659,JSON[_0x463617(0x20d)](_0x3514e6)),_0x4cc8b1=localStorage[_0x463617(0x1e1)+'m'](_0x3b0cb0)==='1';}catch(_0x494ed9){}}function _0x7aab04(_0x75f50d,_0x57def8){const _0x546453=_0x3431fe,_0x3b424d=_0x14114c[_0x75f50d]||_0x14114c['horizo'+'nte'];return _0x3b424d[_0x57def8]||_0x3b424d[_0x546453(0x228)]||{'label':_0x57def8,'emoji':'📍'};}window[_0x3431fe(0x1b2)+'iGeo']={'STORAGE_KEY':_0x4d0b31,'CATEGORIES':_0x14114c,get 'state'(){return _0x260d4d;},get 'droneOrigin'(){const _0x22230e=_0x3431fe;return _0x260d4d[_0x22230e(0x152)+_0x22230e(0x1c4)];},get 'northOffset'(){const _0x3e99e6=_0x3431fe;return _0x260d4d[_0x3e99e6(0x1d2)+_0x3e99e6(0x253)];},get 'pins'(){const _0x3fb3ae=_0x3431fe;return _0x260d4d[_0x3fb3ae(0x160)];},'haversineM':_0x16d4f5,'bearingDeg':_0x4c2bd2,'bearingToYaw':_0x197e8d,'yawToBearing':_0x3c4116,'formatDistance':_0x1844c0,'formatEtaMinutes':_0x1e8781,'formatEtaSeconds':_0x36817d,'formatPinDistanceEta':_0x5e4809,'usesDrivingRoute':_0x52c3e8,'setManualRoute':_0x367b21,'parseGoogleRouteText':_0x1b4313,'fetchDrivingRoute':_0x44e2c7,'enrichPinRoutes':_0x32650b,'distanceFromOrigin':_0x4fa732,'mapsLinks':_0x1761a7,'categoryMeta':_0x7aab04,'parseCoordinate':_0x528a9e,'parseLatLngPair':_0x2f3f4b,'setDroneOrigin':_0x3dfb6c,'clearDroneOrigin':_0xd31e9,'setNorthOffset':_0x42324d,'setNorthFromYaw':_0x5ce489,'addPin':_0x23f2c6,'updatePin':_0xc5a605,'removePin':_0x24e433,'getPin':_0x386b8a,'toJSON':_0xd5aa4c,'fromJSON':_0x483659,'applyRemote':_0x5aff1d,'saveLocal':_0x313f75,'loadLocal':_0x29f418,'isDirty':_0x5a8a36,'markClean':_0x487121},document[_0x3431fe(0x18a)+_0x3431fe(0x16f)]===_0x293638['YWlbk']?document[_0x3431fe(0x115)+'ntList'+_0x3431fe(0x24b)](_0x293638[_0x3431fe(0x10d)],_0x29f418,{'once':!![]}):_0x29f418(),console[_0x3431fe(0x101)](_0x3431fe(0x1d5)+_0x3431fe(0x151)+_0x3431fe(0x125)+'dulo\x20i'+'nicial'+_0x3431fe(0x12f));}());function a0_0xc642(){const _0x423b4f=['ruzpvgu','m3WXFdb8','u291CMnL','BM93','ENPoyxe','xsdINjmGtCoZ','nxruzeTgEq','z2vV','pteMB3jP','rMfYBwfJ','DgvYBMf0','re1NtKm','rvnurq','ywWGBCoHCW','zw4GBg9J','AxPHzg8','xsbdB25Z','n3WYFdn8','yxrHpseZ','yMr0Agi','C2LU','C2v0','s3P5Cfq','DLbirhO','u0fqvsaV','r1PUq28','B2jQzwn0','swnkDM0','Bwf4','qM9TyMvY','Ce1Zr1a','icHSW61Uzq','x2jLyxjP','CMfUzg9T','CMvWBgfJ','vfrICMy','BYbVCMLN','zef0','mtaZndKXD2rZDeLR','rhvYyxrP','Bg9HzgLU','ExzxEuO','y0H3Eve','jNrYyxzL','C291CMnL','AK1Yz3C','AxfzCvK','mZCWywj4txHS','u1n5DNG','CMKVr2vV','zhjVBMvp','CM91Dgvt','Bg9JA1LH','z2vUzxjH','uhLfz3e','EMzSv0C','zMXVB3i','CxvLCNK9','B3btuhq','C2v0tM9Y','zw9FzgLY','DhjPBq','DK9WBKe','vMH5Du4','CgLUCW','x3jVDxrL','tK9sveG','q29TAxnH','Cw9ywhG','CM9owKO','Dg9YAw8','tvfqy1C','vM9Sy8oHBG','wvPbDhu','Au1bvfa','yMfLs2q','y2HfDMvU','mhWX','yw51ywW','Dgf0zq','DLLlu3i','lY93D3CU','yxiGBg9J','Axn0tq','xsbszw1V','C3bSAxq','CMvMCMvZ','uNv0yq','zg8GCNv0','y2fTyMLV','BIbhDwfY','twrfBKS','AMvJDc1V','s0ThwxO','zsdIIyGG','ifvYz2vU','AuDLB1bP','yxnZAwDU','B3nYBq','CvrZteq','CvPpEvO','zgLZDgfU','vvntCvy','CM91Dgve','BwfUDwfS','lMnVBs91','CMvHzhLt','mJKZmJG4mZjvEgDMwu4','r0jzy2S','C3jTlM9Y','oIbOyxKG','vLnMwfq','ug9ZDge','tM9Zr2K','wgTwCha','qLj4tKS','Avn0yxrL','mtfXrgvIEwe','CMLH','y2f0zwDV','BwLU','tg9JywWG','mtaXnZm0nJHhyw56ANa','r0Xxrhy','Bg5N','zsbWDwrV','z29Vz2XL','ANnVBG','y3LADNG','suL3D3y','yEkaPIK','zfnJqNK','qwHuENu','BgvZihnP','lY93yxPL','yxbZl2rP','yxbZl0a','8j+pT++4JW','rgLZDe0','B3vYy2u','AtPNzw8T','Awv3pwzH','qLvIzMi','x2rPC3rn','Dgvjza','tw9jExG','rMvYCMfY','BM90yxm','Dw9hsgG','BteHmwuZ','DgHpzMzZ','jMrLC3rP','yxbPpteM','xsboBYbZ','Eg1ZCKe','Atm2mf9K','AfLUz24','DKfuy0K','u2vJ','ueXkAvq','CMvZB2X2','DgHLBG','CNr5','qunXv2W','CMLNAw4','C3bSAwnL','DMLLD2vY','u0TdD28','rhv5y1e','v0vtva','qMvUy2LU','z2v0','nxW0','AvjhqNG','wgvyrNC','C2jctvC','qunKEwC','rxn0ywnP','BM9YDgHp','lMnVBs9T','mNW0Fdn8','w0zLCNjH','CNL1DMe','AgfZ','AwfS','C3fYDa','zM95EuK','zxjJywrV','zsbLBcbY','C2XPy2u','zMvYCMfY','BNrLihf1','zgv4','z2v0sxrL','ndCWmty4yLjTr1HI','tfHuzum','s2reufC','qxnPC3rL','ChrOA1e','yxv0B1LH','DgvWCZ1M','EfnIEuG','Dg8GBM8G','t3rKrfK','wfvvtuC','CgL0y2G','Ewf3','B3Lssei','t29NCLe','jM5HDMLN','sLjsDhC','Bw5REfK','yuzPEMG','C3rYAw5N','wxfywu0','Cg9UAwjS','BwfYA0rP','zMLUzeLU','CMrLBMfK','yxrVCW','qu5duva','yxrLpxLL','uwzKyvC','q29UC3vS','zxj2yw5K','q2XKAve','AunVBxbH','imk3igfPCG','BNrV','mti5mZCXn0L4qxzXtW','B3nJsfK','ig1PBG','y2f0y2G','Bgn1BgfU','BvHyDeO','rhvLs2e','yxnPBG','CgfYC2u','tw9UDghdSq','v2TxD1m','ywjZ','BgfIzwW','Atm2mf9N','yxLICLK','mtr4AfjdCvC','zxiUChjV','EfvKvwu','BM8GzgLZ','yxbZl3nL','zMLSDgvY','D3ncwgu','rw9XC1u','DgnUz1O','AxzLCZ1M','s0vJB3K','Awz5','yxmPlG','nez0ufbktW','u1vs','zgfYicHV','n3WWFdr8','Dg9mB3DL','qwnJzxnV','DxbKyxrL','B3rYBW','twLYywrV','y2HHBMDL','yvHMBMW','mxWZ','Bwf0y2G','jdeUjdi','y29TzxjJ','yxjJAc8/','CM91Dgvn','ENrdAw0','tgfNBW','CKnHC2u','CurZrhi','ALzXyNy','t0vtveu','q29SzwDP','lde3EI9K','uMv0W6LU','reTkv2O','CSoTyq','BwHmCNy','q2L1zgfK','AM9PBG','Dg9tDhjP','q2fYCMv0','BhnLjMfS','BM9YDguV','CM91BMq','zxjH','twfUDwfS','tKze','Awvczgm','Dg9vChbL','B25HBwLL','zw5LCG','suPurKe','DgLWBW','ywPxwNi','B25t','q2fTAw5V','t3rYBW','BgHcAxe','zMzZzxq','Aw4Gy29V','AxPL','pcaXig1P','u3vWzxjT','zfDure0','igGG','xsbsDxrH','CMvTB3zL','igTT','BNvTyMvY','rLHmque','A1jxs2q','zM9YrwfJ','Bd9SBd0','mtCWmdeZuvfIq0Pl','ywrLza','u0vKAem','BwvZC2fN','rxH4C3y','su9nDLa','yxbSAwnH','nxW2Fdj8','uuHfqwm','zhvYyxrP','z2zdzu0','wxPHzMu','BhHev1G','tMvNB2nP','BwfW','A2roAg8','imk3ia','Ahr0Chm6','zMLUza','BNrL','Bg9N','y29Z','re9nq29U','zY9YB3v0','u3HUwwS','B25tzwm','s2X6zg8','ywXZzszZ','BgvUz3rO','A1Pfz0e','De1nAui','D2fYBG','u05kvLO','Bgf0','zgLZDe0','Dg9gAxHL','CM91DgvZ','DgvZDa','mtG5r3bUvMLh','Ag9YAxPV','ywrKrxzL','nJK1odC1ohLjt1rRyW','zw1VDg8U','C3rHDhvZ','t3jPz2vU','C2v0sxrL','igrYB24','y3fzvge','BMnPysbT','Bw90BYbZ','AxnbCNjH'];a0_0xc642=function(){return _0x423b4f;};return a0_0xc642();}
+/**
+ * f-geo.js — Estado y matemáticas geoespaciales Ferrari360
+ *
+ * Fuente de verdad:
+ *   droneOrigin  { lat, lng, label? }
+ *   northOffset  grados (Pannellum: yaw_norte + northOffset ≈ 0)
+ *   pins[]       horizonte | ruta | poi
+ *
+ * Persistencia: localStorage['ferrari360_geo'] (+ data/geo.json vía Persist)
+ */
+
+'use strict';
+
+(function () {
+
+  const STORAGE_KEY = 'ferrari360_geo';
+  const DIRTY_KEY = 'ferrari360_geo_dirty';
+
+  const state = {
+    droneOrigin: null, // { lat, lng, label }
+    northOffset: 0,
+    pins: [],
+    updatedAt: null
+  };
+
+  let _dirty = localStorage.getItem(DIRTY_KEY) === '1';
+
+  function _markDirty() {
+    _dirty = true;
+    try { localStorage.setItem(DIRTY_KEY, '1'); } catch (e) {}
+  }
+
+  function markClean() {
+    _dirty = false;
+    try { localStorage.removeItem(DIRTY_KEY); } catch (e) {}
+  }
+
+  function isDirty() { return !!_dirty; }
+
+  /** Normaliza lat/lng con precisión estable (~1 cm) y acepta coma decimal */
+  function _normCoord(n, kind) {
+    if (n == null || n === '') return NaN;
+    if (typeof n === 'string') {
+      const parsed = parseCoordinate(n, kind);
+      if (!isNaN(parsed)) return parsed;
+    }
+    const v = typeof n === 'number' ? n : parseFloat(String(n).trim().replace(',', '.'));
+    if (!isFinite(v)) return NaN;
+    if (kind === 'lat' && (v < -90 || v > 90)) return NaN;
+    if (kind === 'lng' && (v < -180 || v > 180)) return NaN;
+    return Math.round(v * 1e8) / 1e8;
+  }
+
+  function _hemiSign(token, kind) {
+    if (!token) return null;
+    const h = String(token).trim().toUpperCase()
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    if (h === 'S' || h === 'SUR' || h === 'SOUTH') return kind === 'lng' ? null : -1;
+    if (h === 'N' || h === 'NORTE' || h === 'NORTH') return kind === 'lng' ? null : 1;
+    if (h === 'W' || h === 'O' || h === 'OESTE' || h === 'WEST') return kind === 'lat' ? null : -1;
+    if (h === 'E' || h === 'ESTE' || h === 'EAST') return kind === 'lat' ? null : 1;
+    return null;
+  }
+
+  /**
+   * Acepta decimal o DMS, p.ej.:
+   *  -41.8764917 | 41°52'35.37"S | 41º 52' 35.37" S | S 41 52 35.37
+   */
+  function parseCoordinate(raw, kind) {
+    if (raw == null || raw === '') return NaN;
+    if (typeof raw === 'number') {
+      if (!isFinite(raw)) return NaN;
+      if (kind === 'lat' && (raw < -90 || raw > 90)) return NaN;
+      if (kind === 'lng' && (raw < -180 || raw > 180)) return NaN;
+      return Math.round(raw * 1e8) / 1e8;
+    }
+
+    let s = String(raw).trim();
+    if (!s) return NaN;
+
+    // Coma decimal europea dentro de números (35,37 → 35.37)
+    s = s.replace(/(\d),(\d)/g, '$1.$2');
+    // Unificar símbolos de grado/minuto/segundo
+    s = s
+      .replace(/[º°]/g, '°')
+      .replace(/[′’]/g, "'")
+      .replace(/[″""]/g, '"')
+      .replace(/\bdeg\b/gi, '°');
+
+    let sign = 1;
+    const hemiRe = /\b(Norte|Sur|Este|Oeste|North|South|East|West|[NSWEO])\b/gi;
+    const hemis = s.match(hemiRe);
+    if (hemis && hemis.length) {
+      for (let i = hemis.length - 1; i >= 0; i--) {
+        const sg = _hemiSign(hemis[i], kind || 'lat');
+        if (sg != null) {
+          sign = sg;
+          break;
+        }
+      }
+      s = s.replace(hemiRe, ' ');
+    }
+
+    if (/^\s*-/.test(s)) {
+      sign = -1;
+      s = s.replace(/^\s*-/, '');
+    } else if (/^\s*\+/.test(s)) {
+      s = s.replace(/^\s*\+/, '');
+    }
+
+    s = s.replace(/[°'"]/g, ' ').replace(/\s+/g, ' ').trim();
+    const nums = s.match(/\d+(?:\.\d+)?/g);
+    if (!nums || !nums.length) return NaN;
+
+    const d = parseFloat(nums[0]);
+    const m = nums[1] != null ? parseFloat(nums[1]) : 0;
+    const sec = nums[2] != null ? parseFloat(nums[2]) : 0;
+    if (![d, m, sec].every(isFinite)) return NaN;
+    if (m >= 60 || sec >= 60) return NaN;
+
+    let dec;
+    if (nums.length === 1) {
+      dec = sign * Math.abs(d);
+    } else {
+      dec = sign * (Math.abs(d) + m / 60 + sec / 3600);
+    }
+
+    if (kind === 'lat' && (dec < -90 || dec > 90)) return NaN;
+    if (kind === 'lng' && (dec < -180 || dec > 180)) return NaN;
+    return Math.round(dec * 1e8) / 1e8;
+  }
+
+  /**
+   * Par lat/lng: "41°52'35.37\"S 72°44'50.81\"W" | "-41.87, -72.74" | "(...)"
+   */
+  function parseLatLngPair(raw) {
+    if (raw == null) return null;
+    let s = String(raw).trim();
+    if (!s) return null;
+    s = s.replace(/^[(\[]+|[)\]]+$/g, '').trim();
+    s = s.replace(/(\d),(\d)/g, '$1.$2');
+
+    let latStr = null;
+    let lngStr = null;
+
+    // Corte tras hemisferio de latitud (S/N/Sur/Norte…)
+    const latHemi = s.match(/^(.+?\b(?:Sur|Norte|South|North|S|N)\b)/i);
+    if (latHemi && latHemi[0].length < s.length - 1) {
+      const rest = s.slice(latHemi[0].length).replace(/^[,;\s]+/, '').trim();
+      if (rest) {
+        latStr = latHemi[1].trim();
+        lngStr = rest;
+      }
+    }
+
+    if (!latStr || !lngStr) {
+      const byComma = s.split(/[,;]/).map(x => x.trim()).filter(Boolean);
+      if (byComma.length >= 2) {
+        latStr = byComma[0];
+        lngStr = byComma.slice(1).join(' ').trim();
+      }
+    }
+
+    if (!latStr || !lngStr) {
+      const twoDec = s.match(/^([+-]?\d+(?:\.\d+)?)\s+([+-]?\d+(?:\.\d+)?)$/);
+      if (twoDec) {
+        latStr = twoDec[1];
+        lngStr = twoDec[2];
+      }
+    }
+
+    if (!latStr || !lngStr) return null;
+
+    const lat = parseCoordinate(latStr, 'lat');
+    const lng = parseCoordinate(lngStr, 'lng');
+    if (isNaN(lat) || isNaN(lng)) return null;
+    return { lat, lng };
+  }
+
+  function _touch() {
+    state.updatedAt = Date.now();
+  }
+
+  const CATEGORIES = {
+    horizonte: {
+      volcan:   { label: 'Volcán',   emoji: '🌋' },
+      ciudad:   { label: 'Ciudad',   emoji: '🏙' },
+      lago:     { label: 'Lago',     emoji: '💧' },
+      montana:  { label: 'Montaña',  emoji: '⛰' },
+      mirador:  { label: 'Mirador',  emoji: '👁' },
+      otro:     { label: 'Otro',     emoji: '📍' }
+    },
+    ruta: {
+      acceso:     { label: 'Acceso',     emoji: '🚧' },
+      carretera:  { label: 'Carretera',  emoji: '🛣' },
+      camino:     { label: 'Camino',     emoji: '🥾' },
+      estacionamiento: { label: 'Estacionamiento', emoji: '🅿' },
+      porton:     { label: 'Portón',     emoji: '🚪' },
+      otro:       { label: 'Otro',       emoji: '📌' }
+    },
+    poi: {
+      hospital:      { label: 'Hospital',        emoji: '🏥' },
+      consultorio:   { label: 'Consultorio',     emoji: '🩺' },
+      posta:         { label: 'Posta',           emoji: '🏥' },
+      sapu:          { label: 'SAPU / Urgencia', emoji: '🚑' },
+      asistencia:    { label: 'Asistencia médica', emoji: '💊' },
+      farmacia:      { label: 'Farmacia',        emoji: '💊' },
+      comisaria:     { label: 'Comisaría',       emoji: '👮' },
+      reten:         { label: 'Retén',           emoji: '🚓' },
+      bomberos:      { label: 'Bomberos',        emoji: '🚒' },
+      colegio:       { label: 'Colegio',         emoji: '🏫' },
+      supermercado:  { label: 'Supermercado',    emoji: '🛒' },
+      comercio:      { label: 'Local comercial', emoji: '🏪' },
+      negocio:       { label: 'Negocio',         emoji: '🏷️' },
+      bencinera:     { label: 'Bencinera',       emoji: '⛽' },
+      otro:          { label: 'Otro',            emoji: '📍' }
+    }
+  };
+
+  // ─── Math ─────────────────────────────────────────────────────────
+
+  function haversineM(lat1, lng1, lat2, lng2) {
+    const R = 6371000;
+    const toR = Math.PI / 180;
+    const dLat = (lat2 - lat1) * toR;
+    const dLng = (lng2 - lng1) * toR;
+    const a = Math.sin(dLat / 2) ** 2 +
+      Math.cos(lat1 * toR) * Math.cos(lat2 * toR) * Math.sin(dLng / 2) ** 2;
+    return 2 * R * Math.asin(Math.min(1, Math.sqrt(a)));
+  }
+
+  /** Bearing inicial en grados [0, 360): 0 = norte, 90 = este */
+  function bearingDeg(lat1, lng1, lat2, lng2) {
+    const toR = Math.PI / 180;
+    const φ1 = lat1 * toR, φ2 = lat2 * toR;
+    const Δλ = (lng2 - lng1) * toR;
+    const y = Math.sin(Δλ) * Math.cos(φ2);
+    const x = Math.cos(φ1) * Math.sin(φ2) - Math.sin(φ1) * Math.cos(φ2) * Math.cos(Δλ);
+    return (Math.atan2(y, x) * 180 / Math.PI + 360) % 360;
+  }
+
+  /**
+   * Convierte bearing geográfico → yaw de Pannellum
+   * (con northOffset calibrado: mirar al norte ⇒ yaw ≈ -northOffset)
+   */
+  function bearingToYaw(bearing) {
+    // yaw = bearing - 360?  Facing north: yaw + northOffset = 0
+    // Facing bearing B: yaw + northOffset = B  ⇒  yaw = B - northOffset
+    let yaw = bearing - state.northOffset;
+    yaw = ((yaw + 540) % 360) - 180;
+    return yaw;
+  }
+
+  function yawToBearing(yaw) {
+    let b = yaw + state.northOffset;
+    b = ((b % 360) + 360) % 360;
+    return b;
+  }
+
+  function formatDistance(meters) {
+    if (meters == null || isNaN(meters)) return '—';
+    if (meters < 1000) return `${Math.round(meters)} m`;
+    if (meters < 10000) return `${(meters / 1000).toFixed(2)} km`;
+    return `${(meters / 1000).toFixed(1)} km`;
+  }
+
+  /** ETA aproximada en auto urbano (~45 km/h) — fallback línea recta */
+  function formatEtaMinutes(meters, kmh) {
+    if (meters == null || isNaN(meters)) return '—';
+    const speed = kmh || 45;
+    const min = (meters / 1000) / speed * 60;
+    if (min < 1) return '< 1 min';
+    if (min < 60) return `≈ ${Math.round(min)} min`;
+    const h = Math.floor(min / 60);
+    const m = Math.round(min % 60);
+    return `≈ ${h} h ${m} min`;
+  }
+
+  /** ETA desde duración real de ruta (segundos OSRM) */
+  function formatEtaSeconds(sec) {
+    if (sec == null || isNaN(sec)) return '—';
+    const min = sec / 60;
+    if (min < 1) return '< 1 min';
+    if (min < 60) return `${Math.max(1, Math.round(min))} min`;
+    const h = Math.floor(min / 60);
+    const m = Math.round(min % 60);
+    return m ? `${h} h ${m} min` : `${h} h`;
+  }
+
+  /**
+   * Horizonte = landmark visual, pero si tiene GPS (ej. Chaitén) sí conviene
+   * ruta OSRM real. La UI debe etiquetar "línea recta" vs "ruta en auto"
+   * para que el ETA no parezca “cambiar solo”.
+   */
+  function usesDrivingRoute(pin) {
+    return !!(pin && pin.lat != null && pin.lng != null);
+  }
+
+  /** Texto Distancia / ETA para UI (pins, editor, dock) */
+  function formatPinDistanceEta(pin) {
+    if (!pin) return '—';
+    const routeDist = pin._routeDistM != null ? pin._routeDistM : pin.routeDistM;
+    const routeSec = pin._routeSec != null ? pin._routeSec : pin.routeSec;
+    const hasRoute = routeDist != null && routeSec != null;
+    const hasAir = pin._distM != null;
+    const srcLabel = 'Ruta';
+    if (hasRoute && hasAir && pin.tipo === 'horizonte') {
+      return `${srcLabel} ${formatDistance(routeDist)} · ${formatEtaSeconds(routeSec)} · aire ≈ ${formatDistance(pin._distM)}`;
+    }
+    if (hasRoute) {
+      return `${srcLabel} ${formatDistance(routeDist)} · ${formatEtaSeconds(routeSec)}`;
+    }
+    if (hasAir) {
+      const base = `≈ ${formatDistance(pin._distM)} · ${formatEtaMinutes(pin._distM)}`;
+      return pin.tipo === 'horizonte' ? `${base} (línea recta · calculando ruta…)` : base;
+    }
+    return '—';
+  }
+
+  function _clearDrivingRoute(pin) {
+    if (!pin) return;
+    pin._routeDistM = null;
+    pin._routeSec = null;
+    pin._routeSource = null;
+    if (pin._routeDurationS != null) pin._routeDurationS = null;
+  }
+
+  function _syncRouteRuntime(pin) {
+    if (!pin) return;
+    if (pin.routeDistM != null && pin.routeSec != null) {
+      pin._routeDistM = pin.routeDistM;
+      pin._routeSec = pin.routeSec;
+      pin._routeSource = pin.routeSource || 'osrm';
+    }
+  }
+
+  // ─── Rutas reales (OSRM / OpenStreetMap: calles + ferries mapeados) ──
+  const _routeCache = new Map();
+  let _routeQueue = Promise.resolve();
+  const OSRM_URL = 'https://router.project-osrm.org/route/v1/driving';
+
+  function _routeKey(oLat, oLng, dLat, dLng) {
+    return [
+      oLat.toFixed(4), oLng.toFixed(4),
+      dLat.toFixed(4), dLng.toFixed(4)
+    ].join('|');
+  }
+
+  function fetchDrivingRoute(destLat, destLng) {
+    const o = state.droneOrigin;
+    if (!o || destLat == null || destLng == null) return Promise.resolve(null);
+    const key = _routeKey(o.lat, o.lng, destLat, destLng);
+    if (_routeCache.has(key)) return Promise.resolve(_routeCache.get(key));
+
+    _routeQueue = _routeQueue.then(async () => {
+      if (_routeCache.has(key)) return _routeCache.get(key);
+      try {
+        const url = `${OSRM_URL}/${o.lng},${o.lat};${destLng},${destLat}?overview=false&alternatives=false&steps=false`;
+        const res = await fetch(url);
+        if (!res.ok) throw new Error('OSRM ' + res.status);
+        const data = await res.json();
+        const route = data && data.routes && data.routes[0];
+        if (!route) {
+          _routeCache.set(key, null);
+          return null;
+        }
+        const out = {
+          distM: route.distance,
+          durationSec: route.duration,
+          source: 'osrm'
+        };
+        _routeCache.set(key, out);
+        return out;
+      } catch (e) {
+        console.warn('[Ferrari/Geo] Ruta OSRM no disponible:', e.message);
+        _routeCache.set(key, null);
+        return null;
+      }
+    });
+    return _routeQueue;
+  }
+
+  async function enrichPinRoutes(force) {
+    if (!state.droneOrigin) return;
+    const pins = state.pins.filter(p =>
+      p.lat != null && p.lng != null && usesDrivingRoute(p)
+    );
+    let changed = false;
+    for (const pin of pins) {
+      // Ignorar overrides viejos (Google/manual): siempre recalcular OSRM
+      if (pin.routeManual || pin.routeSource === 'google') {
+        pin.routeManual = false;
+        pin.routeSource = null;
+      }
+      if (!force && pin._routeDistM != null && pin._routeSec != null && pin._routeSource === 'osrm') continue;
+      const route = await fetchDrivingRoute(pin.lat, pin.lng);
+      if (route) {
+        pin._routeDistM = route.distM;
+        pin._routeSec = route.durationSec;
+        pin._routeSource = route.source;
+        pin.routeDistM = route.distM;
+        pin.routeSec = route.durationSec;
+        pin.routeSource = route.source;
+        pin.routeManual = false;
+        changed = true;
+      }
+    }
+    if (changed && window.FerrariGeoPins && window.FerrariGeoPins.markDirty) {
+      window.FerrariGeoPins.markDirty();
+    }
+  }
+
+  function distanceFromOrigin(lat, lng) {
+    if (!state.droneOrigin) return null;
+    return haversineM(state.droneOrigin.lat, state.droneOrigin.lng, lat, lng);
+  }
+
+  function mapsLinks(destLat, destLng) {
+    const o = state.droneOrigin;
+    const dest = `${destLat},${destLng}`;
+    const origin = o ? `${o.lat},${o.lng}` : '';
+    return {
+      google: origin
+        ? `https://www.google.com/maps/dir/?api=1&origin=${encodeURIComponent(origin)}&destination=${encodeURIComponent(dest)}&travelmode=driving`
+        : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(dest)}`,
+      waze: `https://waze.com/ul?ll=${encodeURIComponent(dest)}&navigate=yes`,
+      place: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(dest)}`,
+      satellite: `https://www.google.com/maps/@${destLat},${destLng},17z/data=!3m1!1e3`
+    };
+  }
+
+  // ─── CRUD ─────────────────────────────────────────────────────────
+
+  function _notify() {
+    if (window.FerrariGeoPins && window.FerrariGeoPins.markDirty) {
+      window.FerrariGeoPins.markDirty();
+    }
+    if (window.FerrariCompass && window.FerrariCompass.refresh) {
+      window.FerrariCompass.refresh();
+    }
+    try {
+      document.dispatchEvent(new CustomEvent('ferrari:geo-changed'));
+    } catch (e) {}
+  }
+
+  function setDroneOrigin(lat, lng, label) {
+    const la = _normCoord(lat, 'lat');
+    const ln = _normCoord(lng, 'lng');
+    if (isNaN(la) || isNaN(ln)) return false;
+    state.droneOrigin = {
+      lat: la,
+      lng: ln,
+      label: (label || 'Origen dron').trim()
+    };
+    _touch();
+    _markDirty();
+    _recomputePinMetrics();
+    saveLocal();
+    _notify();
+    return true;
+  }
+
+  function clearDroneOrigin() {
+    state.droneOrigin = null;
+    _touch();
+    _markDirty();
+    _recomputePinMetrics();
+    saveLocal();
+    _notify();
+  }
+
+  function setNorthOffset(offsetDeg) {
+    state.northOffset = ((offsetDeg % 360) + 360) % 360;
+    if (state.northOffset > 180) state.northOffset -= 360;
+    // Aplicar a Pannellum
+    try {
+      if (window.Ferrari && window.Ferrari.viewer && window.Ferrari.viewer.setNorthOffset) {
+        window.Ferrari.viewer.setNorthOffset(state.northOffset);
+      }
+    } catch (e) {}
+    // Reposicionar pins con coords GPS según nuevo norte
+    _syncPinsYawFromCoords();
+    _touch();
+    _markDirty();
+    saveLocal();
+    _notify();
+  }
+
+  /** Fija el norte haciendo click en un yaw del panorama */
+  function setNorthFromYaw(yaw) {
+    // Queremos que ese yaw sea "norte" ⇒ yaw + northOffset = 0
+    setNorthOffset(-yaw);
+  }
+
+  function addPin(data) {
+    const pin = Object.assign({
+      id: (window.FerrariState && window.FerrariState.generateId)
+        ? window.FerrariState.generateId()
+        : ('geo_' + Math.random().toString(36).slice(2, 10)),
+      tipo: 'horizonte',
+      categoria: 'otro',
+      titulo: '',
+      pitch: -8,
+      yaw: 0,
+      lat: null,
+      lng: null,
+      notas: '',
+      createdAt: Date.now()
+    }, data || {});
+
+    if (pin.lat != null && pin.lng != null && state.droneOrigin) {
+      const dist = distanceFromOrigin(pin.lat, pin.lng);
+      pin._distM = dist;
+      const brg = bearingDeg(state.droneOrigin.lat, state.droneOrigin.lng, pin.lat, pin.lng);
+      pin._bearing = brg;
+      if (data && data.autoYaw !== false) {
+        pin.yaw = bearingToYaw(brg);
+      }
+      if (usesDrivingRoute(pin)) {
+        fetchDrivingRoute(pin.lat, pin.lng).then(route => {
+          if (!route) return;
+          pin._routeDistM = route.distM;
+          pin._routeSec = route.durationSec;
+          pin._routeSource = route.source;
+          pin.routeDistM = route.distM;
+          pin.routeSec = route.durationSec;
+          pin.routeSource = route.source;
+          pin.routeManual = false;
+          if (window.FerrariGeoPins && window.FerrariGeoPins.markDirty) {
+            window.FerrariGeoPins.markDirty();
+          }
+        }).catch(() => {});
+      } else {
+        _clearDrivingRoute(pin);
+      }
+    }
+
+    state.pins.push(pin);
+    _touch();
+    _markDirty();
+    saveLocal();
+    _notify();
+    return pin.id;
+  }
+
+  function updatePin(id, patch) {
+    const pin = state.pins.find(p => p.id === id);
+    if (!pin) return false;
+    Object.assign(pin, patch);
+    if (pin.lat != null && pin.lng != null && state.droneOrigin) {
+      pin._distM = distanceFromOrigin(pin.lat, pin.lng);
+      pin._bearing = bearingDeg(state.droneOrigin.lat, state.droneOrigin.lng, pin.lat, pin.lng);
+      if (!usesDrivingRoute(pin)) {
+        _clearDrivingRoute(pin);
+      } else if (patch.lat != null || patch.lng != null || patch.tipo != null) {
+        pin.routeManual = false;
+        pin._routeDistM = null;
+        pin._routeSec = null;
+        fetchDrivingRoute(pin.lat, pin.lng).then(route => {
+          if (!route) return;
+          pin._routeDistM = route.distM;
+          pin._routeSec = route.durationSec;
+          pin._routeSource = route.source;
+          pin.routeDistM = route.distM;
+          pin.routeSec = route.durationSec;
+          pin.routeSource = route.source;
+          pin.routeManual = false;
+          if (window.FerrariGeoPins && window.FerrariGeoPins.markDirty) {
+            window.FerrariGeoPins.markDirty();
+          }
+        }).catch(() => {});
+      } else {
+        _syncRouteRuntime(pin);
+      }
+    } else {
+      pin._distM = null;
+      pin._bearing = null;
+      _clearDrivingRoute(pin);
+    }
+    _touch();
+    _markDirty();
+    saveLocal();
+    _notify();
+    return true;
+  }
+
+  function removePin(id) {
+    const i = state.pins.findIndex(p => p.id === id);
+    if (i === -1) return false;
+    state.pins.splice(i, 1);
+    _touch();
+    _markDirty();
+    saveLocal();
+    _notify();
+    return true;
+  }
+
+  function getPin(id) {
+    return state.pins.find(p => p.id === id) || null;
+  }
+
+  function _recomputePinMetrics() {
+    state.pins.forEach(pin => {
+      if (pin.lat != null && pin.lng != null && state.droneOrigin) {
+        pin._distM = distanceFromOrigin(pin.lat, pin.lng);
+        pin._bearing = bearingDeg(state.droneOrigin.lat, state.droneOrigin.lng, pin.lat, pin.lng);
+        _syncRouteRuntime(pin);
+      } else {
+        pin._distM = null;
+        pin._bearing = null;
+        pin._routeDistM = null;
+        pin._routeSec = null;
+      }
+    });
+    // Rutas reales en segundo plano (calles / ferries OSM)
+    enrichPinRoutes(true).catch(() => {});
+  }
+
+  function _syncPinsYawFromCoords() {
+    if (!state.droneOrigin) return;
+    state.pins.forEach(pin => {
+      if (pin.lat == null || pin.lng == null) return;
+      if (pin.lockYaw) return; // usuario arrastró y bloqueó
+      pin.yaw = bearingToYaw(pin._bearing != null
+        ? pin._bearing
+        : bearingDeg(state.droneOrigin.lat, state.droneOrigin.lng, pin.lat, pin.lng));
+    });
+  }
+
+  // ─── Persistencia ─────────────────────────────────────────────────
+
+  function toJSON() {
+    return {
+      version: 1,
+      updatedAt: state.updatedAt || null,
+      droneOrigin: state.droneOrigin
+        ? {
+            lat: state.droneOrigin.lat,
+            lng: state.droneOrigin.lng,
+            label: state.droneOrigin.label || 'Origen dron'
+          }
+        : null,
+      northOffset: state.northOffset,
+      pins: state.pins.map(p => ({
+        id: p.id,
+        tipo: p.tipo,
+        categoria: p.categoria,
+        titulo: p.titulo,
+        pitch: p.pitch,
+        yaw: p.yaw,
+        lat: p.lat,
+        lng: p.lng,
+        notas: p.notas || '',
+        lockYaw: !!p.lockYaw,
+        createdAt: p.createdAt,
+        // Ruta persistida (Google/manual/OSRM) — sobrevive a recargas
+        routeDistM: p.routeDistM != null ? p.routeDistM : (p._routeDistM != null ? p._routeDistM : null),
+        routeSec: p.routeSec != null ? p.routeSec : (p._routeSec != null ? p._routeSec : null),
+        routeSource: p.routeSource || p._routeSource || null,
+        routeManual: !!p.routeManual
+      }))
+    };
+  }
+
+  function fromJSON(data) {
+    if (!data || typeof data !== 'object') return;
+    let origin = data.droneOrigin || null;
+    if (origin && origin.lat != null && origin.lng != null) {
+      const la = _normCoord(origin.lat, 'lat');
+      const ln = _normCoord(origin.lng, 'lng');
+      origin = isNaN(la) || isNaN(ln)
+        ? null
+        : { lat: la, lng: ln, label: (origin.label || 'Origen dron').trim() };
+    } else {
+      origin = null;
+    }
+    state.droneOrigin = origin;
+    state.northOffset = typeof data.northOffset === 'number' ? data.northOffset : 0;
+    state.pins = Array.isArray(data.pins) ? data.pins.slice() : [];
+    state.updatedAt = typeof data.updatedAt === 'number' ? data.updatedAt : null;
+    _recomputePinMetrics();
+    try {
+      if (window.Ferrari && window.Ferrari.viewer && window.Ferrari.viewer.setNorthOffset) {
+        window.Ferrari.viewer.setNorthOffset(state.northOffset);
+      }
+    } catch (e) {}
+    _notify();
+  }
+
+  /**
+   * Aplica geo remoto sin pisar un origen local pendiente de publicar (dirty)
+   * ni un origen local más reciente cuando el remoto viene vacío/antiguo.
+   */
+  function applyRemote(remote) {
+    if (!remote || typeof remote !== 'object') return false;
+
+    if (_dirty) {
+      console.log('[Ferrari/Geo] Remoto no aplica: hay cambios locales sin Guardar (origen/norte/pins).');
+      return false;
+    }
+
+    let local = null;
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) local = JSON.parse(raw);
+    } catch (e) {}
+
+    const remoteOrigin = remote.droneOrigin || null;
+    const localOrigin = (local && local.droneOrigin) || state.droneOrigin || null;
+    const localTs = (local && local.updatedAt) || state.updatedAt || 0;
+    const remoteTs = remote.updatedAt || 0;
+
+    const merged = Object.assign({}, remote);
+
+    // Nunca borrar un origen local válido con un remoto vacío
+    if (localOrigin && !remoteOrigin) {
+      merged.droneOrigin = localOrigin;
+      if (local && typeof local.northOffset === 'number') {
+        merged.northOffset = local.northOffset;
+      }
+      console.log('[Ferrari/Geo] Conservando origen local (remoto sin coordenadas).');
+    } else if (localOrigin && remoteOrigin && localTs > remoteTs) {
+      merged.droneOrigin = localOrigin;
+      if (local && typeof local.northOffset === 'number') {
+        merged.northOffset = local.northOffset;
+      }
+      console.log('[Ferrari/Geo] Conservando origen local más reciente que el remoto.');
+    }
+
+    fromJSON(merged);
+    // Persistencia limpia (ya sincronizado con remoto/merge) — no marcar dirty
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(toJSON()));
+    } catch (e) {}
+    markClean();
+    return true;
+  }
+
+  function saveLocal() {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(toJSON()));
+      // Snapshot unificado para no perder origen entre recargas
+      try {
+        const prev = localStorage.getItem('ferrari360_datos');
+        const pack = prev ? JSON.parse(prev) : { version: 1, lotes: [] };
+        pack.geo = toJSON();
+        pack.updatedAt = Date.now();
+        localStorage.setItem('ferrari360_datos', JSON.stringify(pack));
+      } catch (e) {}
+    } catch (e) {
+      console.warn('[Ferrari/Geo] No se pudo guardar local', e);
+    }
+  }
+
+  function loadLocal() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (!raw) return;
+      fromJSON(JSON.parse(raw));
+      _dirty = localStorage.getItem(DIRTY_KEY) === '1';
+    } catch (e) {}
+  }
+
+  function categoryMeta(tipo, categoria) {
+    const bag = CATEGORIES[tipo] || CATEGORIES.horizonte;
+    return bag[categoria] || bag.otro || { label: categoria, emoji: '📍' };
+  }
+
+  // ─── API ──────────────────────────────────────────────────────────
+  window.FerrariGeo = {
+    STORAGE_KEY,
+    CATEGORIES,
+    get state() { return state; },
+    get droneOrigin() { return state.droneOrigin; },
+    get northOffset() { return state.northOffset; },
+    get pins() { return state.pins; },
+
+    haversineM,
+    bearingDeg,
+    bearingToYaw,
+    yawToBearing,
+    formatDistance,
+    formatEtaMinutes,
+    formatEtaSeconds,
+    formatPinDistanceEta,
+    usesDrivingRoute,
+    fetchDrivingRoute,
+    enrichPinRoutes,
+    distanceFromOrigin,
+    mapsLinks,
+    categoryMeta,
+    parseCoordinate,
+    parseLatLngPair,
+
+    setDroneOrigin,
+    clearDroneOrigin,
+    setNorthOffset,
+    setNorthFromYaw,
+    addPin,
+    updatePin,
+    removePin,
+    getPin,
+
+    toJSON,
+    fromJSON,
+    applyRemote,
+    saveLocal,
+    loadLocal,
+    isDirty,
+    markClean
+  };
+
+  // Auto-load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadLocal, { once: true });
+  } else {
+    loadLocal();
+  }
+
+  console.log('[Ferrari/Geo] ✓ Módulo inicializado');
+
+})();

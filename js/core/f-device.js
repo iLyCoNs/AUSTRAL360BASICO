@@ -1,1 +1,308 @@
-'use strict';function _0x31ac(){var _0x283ac1=['rv9tsvPf','CMKVrgv2','uLrevgW','nxWXFdb8','Dgv4Da','Dg9mB3DL','tunTvhu','mtKYndq3me1uCNDizq','Bg93','ELn2tuG','mtm3nJvrAxbIwem','AwnLxsdINjm','rePOzeq','ze9grMS','DuvnBNO','rg9qEgi','Bg9N','q3zsyxC','wvbly2C','BYbJyxjN','ywfZzNq','u1beBMO','w0zLCNjH','rwXLBwvU','n3jyquL4yq','r3jlBuy','CKnHC2u','AgLNAa','Bwf4','vevyvfvs','Fde0Fde5','s0rYALC','mtu3otq2neX2tuPNAa','BNrLEhq','mhWXn3W5','zxHWzxjP','Aw5KzxHp','z2v0rxH0','DLDiDvC','DxnLCKfN','C3bSAxq','z2v0q29U','mtu3mtiYoxLzs0vhEG','ENzsuhe','mtiXndq5rezADefK','AgvPz2H0','BwLK','Fdr8mtf8','Bg9ZzunV','z2fSyxH5','nfDlr2nMrG','mJm1nZG3ANzbD252','AwnLxsbu','ywrV','FcbnqvHF','rMvYCMfY','D2LKDgG','BvLnq1C','mtj8nNWX','BwLU','y3jLyxrL','mJb8mtz8','BgvUz3rO','FcbTyxHx','ohW3Fde4','v0vcr0XF','mZq0CMrer0jm','u0LArq','D2vIz2WY','B250zxH0','q0nLCe0','oty5mJqWD3Pdu2fr'];_0x31ac=function(){return _0x283ac1;};return _0x31ac();}function _0x4236(_0x5cc25f,_0x49b604){_0x5cc25f=_0x5cc25f-0x84;var _0x31ac3b=_0x31ac();var _0x423689=_0x31ac3b[_0x5cc25f];if(_0x4236['fdDuZx']===undefined){var _0x5363c6=function(_0x447fef){var _0x424abc='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x1a6925='',_0x1aa92e='';for(var _0x5ba554=0x0,_0x482836,_0x4fc5b6,_0x174759=0x0;_0x4fc5b6=_0x447fef['charAt'](_0x174759++);~_0x4fc5b6&&(_0x482836=_0x5ba554%0x4?_0x482836*0x40+_0x4fc5b6:_0x4fc5b6,_0x5ba554++%0x4)?_0x1a6925+=String['fromCharCode'](0xff&_0x482836>>(-0x2*_0x5ba554&0x6)):0x0){_0x4fc5b6=_0x424abc['indexOf'](_0x4fc5b6);}for(var _0x1c2fa2=0x0,_0x1365c9=_0x1a6925['length'];_0x1c2fa2<_0x1365c9;_0x1c2fa2++){_0x1aa92e+='%'+('00'+_0x1a6925['charCodeAt'](_0x1c2fa2)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1aa92e);};_0x4236['Wwjjsf']=_0x5363c6,_0x4236['SDlmhl']={},_0x4236['fdDuZx']=!![];}var _0x552a2e=_0x31ac3b[0x0],_0x4f3030=_0x5cc25f+_0x552a2e,_0x469474=_0x4236['SDlmhl'][_0x4f3030];return!_0x469474?(_0x423689=_0x4236['Wwjjsf'](_0x423689),_0x4236['SDlmhl'][_0x4f3030]=_0x423689):_0x423689=_0x469474,_0x423689;}(function(_0x353c3d,_0x1e66e8){var _0x2bbad7=_0x4236,_0x512b71=_0x353c3d();while(!![]){try{var _0x28a6c2=parseInt(_0x2bbad7(0x91))/0x1+-parseInt(_0x2bbad7(0x90))/0x2*(parseInt(_0x2bbad7(0x8a))/0x3)+-parseInt(_0x2bbad7(0xa0))/0x4*(parseInt(_0x2bbad7(0xb0))/0x5)+parseInt(_0x2bbad7(0xad))/0x6+-parseInt(_0x2bbad7(0xbe))/0x7*(-parseInt(_0x2bbad7(0xc6))/0x8)+-parseInt(_0x2bbad7(0x88))/0x9+-parseInt(_0x2bbad7(0xa5))/0xa;if(_0x28a6c2===_0x1e66e8)break;else _0x512b71['push'](_0x512b71['shift']());}catch(_0x52e300){_0x512b71['push'](_0x512b71['shift']());}}}(_0x31ac,0x28380));(function(){var _0x773a9=_0x4236,_0x37cb10={'DJhdD':function(_0x17ae8c,_0x5478b8){return _0x17ae8c>_0x5478b8;},'MCmTu':function(_0x148c62,_0x206b9f){return _0x148c62>_0x206b9f;},'KDrjW':_0x773a9(0x8c),'mYMCW':_0x773a9(0xc1),'dOFFk':function(_0x12a8ac,_0x1609af){return _0x12a8ac>=_0x1609af;},'cUpCx':function(_0x3a52b9,_0xe49675){return _0x3a52b9*_0xe49675;},'zSvMH':function(_0x2bf2c7,_0x475f17){return _0x2bf2c7!==_0x475f17;},'zvRPq':function(_0x2e340f,_0x461ebb){return _0x2e340f<=_0x461ebb;},'CvRaw':function(_0x3eda14,_0x54b4d6){return _0x3eda14>=_0x54b4d6;},'uEMnz':function(_0x3144a9,_0x5b06a8){return _0x3144a9>=_0x5b06a8;},'GrKmF':_0x773a9(0x9d)+'idth:','SPDnj':'|\x20scor'+'e:','YPKcg':function(_0x28d8d0,_0x4abe7a){return _0x28d8d0>=_0x4abe7a;},'DoPxb':'samsun'+'g','XtphH':_0x773a9(0x8f),'QrlUp':'webgl','CCepM':function(_0x375d3e,_0x43d574){return _0x375d3e<_0x43d574;},'vWHuW':_0x773a9(0x9f)+'lose_c'+_0x773a9(0xa3),'aasft':function(_0x3784d5){return _0x3784d5();},'RTDTl':_0x773a9(0xbc)+_0x773a9(0xa7)+_0x773a9(0xb1)+'\x20Módul'+_0x773a9(0xb9)+_0x773a9(0x93)};const _0x57ca36=0x2ee0,_0x1854b5=0x1770,_0xd3d5cb={'high':0x2000,'mid':0x1000,'low':0x800};let _0x1cd1ed=_0x773a9(0xc1),_0x4c0e85=_0xd3d5cb[_0x773a9(0xc1)],_0x22e565=0x0,_0x284137=![],_0x784b8c=0x0;function _0x2a10da(){var _0x428e71=_0x773a9,_0x47d896=(_0x428e71(0x98)+_0x428e71(0xc8)+_0x428e71(0xc4)+'|13|2|'+_0x428e71(0x9e)+_0x428e71(0x8d)+_0x428e71(0x9b)+_0x428e71(0xa9)+'15|3')[_0x428e71(0x86)]('|'),_0x17f555=0x0;while(!![]){switch(_0x47d896[_0x17f555++]){case'0':if(_0x37cb10[_0x428e71(0xb2)](_0x22e565,0x0)&&_0x37cb10[_0x428e71(0xac)](_0x4c0e85,_0x22e565)){_0x4c0e85=Math[_0x428e71(0x99)](_0x4c0e85,_0x22e565);if(_0x4c0e85<=0x800)_0x1cd1ed=_0x428e71(0xae);else{if(_0x4c0e85<=0x1000)_0x1cd1ed=_0x37cb10[_0x428e71(0xc5)];}}continue;case'1':if(_0x1d8735>=0x6)_0x1cd1ed=_0x37cb10[_0x428e71(0x97)],_0x4c0e85=_0xd3d5cb[_0x428e71(0xc1)];else _0x37cb10[_0x428e71(0xb3)](_0x1d8735,0x3)?(_0x1cd1ed=_0x37cb10[_0x428e71(0xc5)],_0x4c0e85=_0xd3d5cb[_0x428e71(0x8c)]):(_0x1cd1ed=_0x428e71(0xae),_0x4c0e85=_0xd3d5cb[_0x428e71(0xae)]);continue;case'2':var _0x556759=_0x37cb10['cUpCx'](screen[_0x428e71(0x96)]||0x780,screen[_0x428e71(0x8b)]||0x438);continue;case'3':return{'tier':_0x1cd1ed,'maxWidth':_0x4c0e85,'maxTextureSize':_0x22e565};case'4':var _0x35654e=_0x37cb10[_0x428e71(0xaf)](_0x3887e2,undefined)&&_0x3887e2<=0x8||_0x4adfb2!==undefined&&_0x37cb10[_0x428e71(0x89)](_0x4adfb2,0x6);continue;case'5':if(_0x37cb10[_0x428e71(0xac)](_0x22e565,0x0)){if(_0x37cb10[_0x428e71(0xb7)](_0x22e565,0x2000))_0x1d8735+=0x2;else{if(_0x37cb10[_0x428e71(0xb4)](_0x22e565,0x1000))_0x1d8735+=0x0;else _0x1d8735-=0x2;}}continue;case'6':_0x284137=!![];continue;case'7':var _0x4911a2=navigator[_0x428e71(0x85)+'ent'][_0x428e71(0xab)+_0x428e71(0xc0)]();continue;case'8':if(_0x556759>0x3d0900)_0x1d8735+=0x2;else{if(_0x556759>0x1e8480)_0x1d8735+=0x1;}continue;case'9':var _0x4adfb2=navigator['device'+'Memory'];continue;case'10':var _0x1d8735=0x0;continue;case'11':if(_0x448ac3&&_0x35654e)_0x1d8735-=0x1;continue;case'12':if(_0x284137)return{'tier':_0x1cd1ed,'maxWidth':_0x4c0e85,'maxTextureSize':_0x22e565};continue;case'13':if(_0x3887e2!==undefined){if(_0x3887e2>=0x8)_0x1d8735+=0x3;else{if(_0x3887e2>=0x4)_0x1d8735+=0x2;else _0x1d8735+=0x1;}}else _0x1d8735+=0x2;continue;case'14':if(_0x37cb10[_0x428e71(0xaf)](_0x4adfb2,undefined)){if(_0x4adfb2>=0x6)_0x1d8735+=0x3;else{if(_0x37cb10[_0x428e71(0xb3)](_0x4adfb2,0x4))_0x1d8735+=0x2;else _0x1d8735+=0x1;}}else _0x1d8735+=0x2;continue;case'15':console[_0x428e71(0xb6)](_0x428e71(0xbc)+_0x428e71(0xa7)+_0x428e71(0x92)+'ier:',_0x1cd1ed,_0x37cb10[_0x428e71(0xbf)],_0x4c0e85,_0x428e71(0x94)+_0x428e71(0xc3)+_0x428e71(0xa6)+':',_0x22e565,_0x37cb10[_0x428e71(0xbb)],_0x1d8735);continue;case'16':if(_0x448ac3&&_0x37cb10[_0x428e71(0xb7)](_0x5a3baf,0x7d0)&&(_0x4adfb2===undefined||_0x37cb10[_0x428e71(0x89)](_0x4adfb2,0x4)))_0x1d8735-=0x4;continue;case'17':_0x22e565=_0x4e6a16();continue;case'18':var _0x448ac3=_0x37cb10[_0x428e71(0xb8)](_0x4911a2[_0x428e71(0xca)+'f'](_0x37cb10[_0x428e71(0xb5)]),0x0)||_0x4911a2['indexO'+'f'](_0x37cb10['XtphH'])>=0x0;continue;case'19':var _0x3887e2=navigator['hardwa'+'reConc'+'urrenc'+'y'];continue;case'20':var _0x5a3baf=Math[_0x428e71(0xc2)](screen['width']||0x0,screen['height']||0x0);continue;}break;}}function _0x1b8c1e(_0x144ab7){_0x784b8c=_0x144ab7;}function _0x4e6a16(){var _0x54c34b=_0x773a9;if(_0x37cb10[_0x54c34b(0xac)](_0x784b8c,0x0))return _0x784b8c;var _0x5e45c4=document[_0x54c34b(0x9a)+_0x54c34b(0xbd)+'t']('canvas'),_0x29ec8e=[_0x54c34b(0xa2),_0x37cb10['QrlUp'],_0x54c34b(0xc9)+'mental'+'-webgl'],_0x40ace3=null;for(var _0x3c8933=0x0;_0x37cb10[_0x54c34b(0xa4)](_0x3c8933,_0x29ec8e[_0x54c34b(0x9c)])&&!_0x40ace3;_0x3c8933++){try{_0x40ace3=_0x5e45c4[_0x54c34b(0x87)+_0x54c34b(0xaa)](_0x29ec8e[_0x3c8933],{'alpha':![],'depth':![]});}catch(_0x19ad03){}}if(!_0x40ace3)return 0x0;var _0x17afe2=_0x40ace3['getPar'+'ameter'](_0x40ace3['MAX_TE'+'XTURE_'+_0x54c34b(0xa1)]),_0x58d37d=_0x40ace3[_0x54c34b(0xcb)+'ension'](_0x37cb10[_0x54c34b(0x84)]);if(_0x58d37d)_0x58d37d[_0x54c34b(0x8e)+_0x54c34b(0xc7)]();return _0x17afe2;}function _0x511da3(){var _0x8b12c4=_0x773a9;return _0x37cb10[_0x8b12c4(0xba)](_0x2a10da),_0x57ca36>_0x4c0e85;}function _0x1c56b2(){return _0x2a10da(),_0x4c0e85;}function _0x56a21d(){return _0x37cb10['aasft'](_0x2a10da),_0x1cd1ed;}function _0xe8d619(){return _0x57ca36;}function _0x163c11(){return _0x1854b5;}window[_0x773a9(0x95)+'iDevic'+'e']={'detect':_0x2a10da,'needsDownscale':_0x511da3,'getMaxWidth':_0x1c56b2,'getTier':_0x56a21d,'setMaxTextureSize':_0x1b8c1e,'getOriginalWidth':_0xe8d619,'getOriginalHeight':_0x163c11},console[_0x773a9(0xb6)](_0x37cb10[_0x773a9(0xa8)]);}());
+/**
+ * f-device.js — Detección de capacidad del dispositivo para adaptar Ferrari360
+ *
+ * Tier (high / mid / low) según WebGL, RAM, CPU, pantalla y UA.
+ * Galaxy Tab S7 FE y tablets Android similares: mid (4096) por defecto
+ * (mejor calidad que 2048, sin saturar GPU como 8192).
+ *
+ * Override URL: ?tex=2048|4096|8192  o  ?tier=low|mid|high
+ */
+
+'use strict';
+
+(function() {
+
+  const ORIGINAL_WIDTH  = 12000;
+  const ORIGINAL_HEIGHT = 6000;
+
+  const LIMITS = {
+    high: 8192,
+    mid:  4096,
+    low:  2048
+  };
+
+  let _tier  = 'high';
+  let _limit = LIMITS.high;
+  let _maxTexSize = 0;
+  let _detected   = false;
+  let _externalTexSize = 0;
+  let _isTablet = false;
+  let _isPhone = false;
+  let _maxDpr = 2;
+
+  function _ua() {
+    return (navigator.userAgent || '').toLowerCase();
+  }
+
+  function _isSamsungDevice() {
+    var ua = _ua();
+    return ua.indexOf('samsung') >= 0 ||
+           ua.indexOf('galaxy') >= 0 ||
+           /sm-[a-z0-9]+/i.test(navigator.userAgent || '');
+  }
+
+  /** Teléfonos Android/iOS (Poco F5, etc.) — info; no se limita a mid */
+  function _detectPhone() {
+    var ua = _ua();
+    try {
+      if (navigator.userAgentData && navigator.userAgentData.mobile === true) return true;
+    } catch (e) {}
+    if (/iphone|ipod|windows phone/.test(ua)) return true;
+    if (/android/.test(ua) && !_detectTablet()) return true;
+    // Pantalla “phone-like” en portrait/landscape
+    var w = Math.max(screen.width || 0, screen.height || 0);
+    var h = Math.min(screen.width || 0, screen.height || 0);
+    if (/android|mobile/.test(ua) && w > 0 && h > 0 && (w / h) >= 1.6 && w < 1400) return true;
+    return false;
+  }
+
+  /** Tab S7 FE (SM-T73x), Tab S7/S8/S9 y Android tablet genérico */
+  function _detectTablet() {
+    var ua = _ua();
+    var screenW = Math.max(screen.width || 0, screen.height || 0);
+    var screenH = Math.min(screen.width || 0, screen.height || 0);
+    if (/sm-t7|sm-t8|sm-t9|sm-x7|sm-x8|galaxy tab|gts7|gts8|gts9/.test(ua)) return true;
+    if (ua.indexOf('android') >= 0 && screenW >= 1000 && (screenW / Math.max(1, screenH)) < 1.6) return true;
+    if (ua.indexOf('tablet') >= 0) return true;
+    try {
+      if (navigator.userAgentData && navigator.userAgentData.mobile === false &&
+          ua.indexOf('android') >= 0 && screenW >= 1200) return true;
+    } catch (e) {}
+    return false;
+  }
+
+  function _urlOverride() {
+    try {
+      var q = new URLSearchParams(window.location.search);
+      var tex = parseInt(q.get('tex'), 10);
+      var tier = (q.get('tier') || '').toLowerCase();
+      if (tex === 2048 || tex === 4096 || tex === 8192) {
+        return { tier: tex <= 2048 ? 'low' : (tex <= 4096 ? 'mid' : 'high'), maxWidth: tex };
+      }
+      if (tier === 'low' || tier === 'mid' || tier === 'high') {
+        return { tier: tier, maxWidth: LIMITS[tier] };
+      }
+    } catch (e) {}
+    return null;
+  }
+
+  function detect() {
+    if (_detected) {
+      return {
+        tier: _tier,
+        maxWidth: _limit,
+        maxTextureSize: _maxTexSize,
+        isTablet: _isTablet,
+        isPhone: _isPhone,
+        maxDpr: _maxDpr
+      };
+    }
+    _detected = true;
+    _isTablet = _detectTablet();
+    _isPhone = !_isTablet && _detectPhone();
+
+    var override = _urlOverride();
+    if (override) {
+      _tier = override.tier;
+      _limit = override.maxWidth;
+      // Solo tablets: techo mid en override (teléfonos potentes sí pueden 8192 / original)
+      if (_isTablet && _limit > LIMITS.mid) {
+        _limit = LIMITS.mid;
+        _tier = 'mid';
+      }
+      _maxTexSize = _detectMaxTextureSize();
+      _limit = _resolveLimitForGpu(_limit, _tier);
+      _maxDpr = _tier === 'high' ? 2 : (_tier === 'mid' ? 1.35 : 1.15);
+      console.log('[Ferrari/Device] Override URL → Tier:', _tier, '| maxWidth:', _limit,
+        '| phone:', _isPhone, '| tablet:', _isTablet);
+      return { tier: _tier, maxWidth: _limit, maxTextureSize: _maxTexSize, isTablet: _isTablet, isPhone: _isPhone, maxDpr: _maxDpr };
+    }
+
+    var score = 0;
+    _maxTexSize = _detectMaxTextureSize();
+
+    var mem = navigator.deviceMemory;
+    if (mem !== undefined) {
+      if (mem >= 6)      score += 3;
+      else if (mem >= 4) score += 2;
+      else               score += 1;
+    } else {
+      score += 2;
+    }
+
+    var cores = navigator.hardwareConcurrency;
+    if (cores !== undefined) {
+      if (cores >= 8)      score += 3;
+      else if (cores >= 4) score += 2;
+      else                 score += 1;
+    } else {
+      score += 2;
+    }
+
+    var screenPx = (screen.width || 1920) * (screen.height || 1080);
+    if (screenPx > 4000000)      score += 2;
+    else if (screenPx > 2000000) score += 1;
+
+    var isSamsung = _isSamsungDevice();
+    if (isSamsung && ((cores !== undefined && cores <= 8) || (mem !== undefined && mem <= 6))) {
+      score -= 1;
+    }
+
+    // Tablets Samsung / Android grandes: no high (8192). Preferir mid (4096).
+    // Antes score-=4 forzaba low(2048) y la imagen se veía blanda en Tab S7 FE.
+    if (_isTablet || (isSamsung && Math.max(screen.width || 0, screen.height || 0) >= 1800)) {
+      score -= 2;
+      if (score >= 6) score = 5; // techo mid
+    }
+    if (_maxTexSize > 0) {
+      if (_maxTexSize >= 8192)      score += 2;
+      else if (_maxTexSize >= 4096) score += 0;
+      else                          score -= 2;
+    }
+
+    if (score >= 6) { _tier = 'high'; _limit = LIMITS.high; }
+    else if (score >= 3) { _tier = 'mid'; _limit = LIMITS.mid; }
+    else { _tier = 'low'; _limit = LIMITS.low; }
+
+    // Solo tablets: techo mid. Teléfonos high (Poco F5) se dejan en high.
+    if (_isTablet && _tier === 'high') {
+      _tier = 'mid';
+      _limit = LIMITS.mid;
+    }
+
+    // Si la GPU puede cargar el original, no forzar downscale a 8192
+    // (ese resize es lo que colgaba en "Ajustando resolución…").
+    _limit = _resolveLimitForGpu(_limit, _tier);
+
+    // DPR: tablets mid/low → menos píxeles de framebuffer = más FPS
+    if (_tier === 'high') _maxDpr = 2;
+    else if (_tier === 'mid') _maxDpr = _isTablet ? 1.35 : 1.5;
+    else _maxDpr = 1.15;
+
+    console.log('[Ferrari/Device] Tier:', _tier, '| maxWidth:', _limit,
+      '| MAX_TEXTURE_SIZE:', _maxTexSize, '| score:', score,
+      '| phone:', _isPhone, '| tablet:', _isTablet, '| maxDpr:', _maxDpr);
+
+    return {
+      tier: _tier,
+      maxWidth: _limit,
+      maxTextureSize: _maxTexSize,
+      isTablet: _isTablet,
+      isPhone: _isPhone,
+      maxDpr: _maxDpr
+    };
+  }
+
+  function setMaxTextureSize(size) {
+    _externalTexSize = size;
+  }
+
+  /** Pannellum equirect: falla si max(width/2, height) > MAX_TEXTURE_SIZE */
+  function _gpuCanLoadOriginal(maxTex) {
+    if (!maxTex || maxTex <= 0) return false;
+    return Math.max(ORIGINAL_WIDTH / 2, ORIGINAL_HEIGHT) <= maxTex;
+  }
+
+  /**
+   * High + GPU OK → límite = original (sin reescalar en JS).
+   * Si no, respetar tier y no pedir más de lo que aguanta la GPU.
+   */
+  function _resolveLimitForGpu(limit, tier) {
+    if (tier === 'high' && _gpuCanLoadOriginal(_maxTexSize)) {
+      return ORIGINAL_WIDTH;
+    }
+    if (_maxTexSize > 0) {
+      // Equirect: ancho útil hasta ~2*maxTex; height = width/2
+      var gpuCap = _maxTexSize * 2;
+      if (_maxTexSize < 4096) gpuCap = _maxTexSize;
+      limit = Math.min(limit, gpuCap);
+      if (limit <= 2048) _tier = 'low';
+      else if (limit <= 4096 && tier !== 'high') _tier = 'mid';
+    }
+    return limit;
+  }
+
+  function _detectMaxTextureSize() {
+    if (_externalTexSize > 0) return _externalTexSize;
+    var c = document.createElement('canvas');
+    var names = ['webgl2', 'webgl', 'experimental-webgl'];
+    var gl = null;
+    for (var i = 0; i < names.length && !gl; i++) {
+      try { gl = c.getContext(names[i], { alpha: false, depth: false }); } catch (e) {}
+    }
+    if (!gl) return 0;
+    var size = gl.getParameter(gl.MAX_TEXTURE_SIZE);
+    var lose = gl.getExtension('WEBGL_lose_context');
+    if (lose) lose.loseContext();
+    return size;
+  }
+
+  function needsDownscale() {
+    detect();
+    return ORIGINAL_WIDTH > _limit;
+  }
+
+  function getMaxWidth() {
+    detect();
+    return _limit;
+  }
+
+  function getTier() {
+    detect();
+    return _tier;
+  }
+
+  function isTablet() {
+    detect();
+    return _isTablet;
+  }
+
+  function isPhone() {
+    detect();
+    return _isPhone;
+  }
+
+  function getMaxDpr() {
+    detect();
+    return _maxDpr;
+  }
+
+  function getOriginalWidth() { return ORIGINAL_WIDTH; }
+  function getOriginalHeight() { return ORIGINAL_HEIGHT; }
+
+  /** Baja un escalón de calidad (para reintento tras error WebGL / timeout) */
+  function stepDown() {
+    detect();
+    if (_tier === 'high') { _tier = 'mid'; _limit = LIMITS.mid; }
+    else if (_tier === 'mid') { _tier = 'low'; _limit = LIMITS.low; }
+    else if (_limit > 1024) { _limit = 1024; }
+    if (_maxTexSize > 0) _limit = Math.min(_limit, _maxTexSize);
+    _maxDpr = (_isPhone || _isTablet || _tier === 'low') ? 1.1 : 1.25;
+    console.warn('[Ferrari/Device] stepDown →', _tier, _limit);
+    return {
+      tier: _tier,
+      maxWidth: _limit,
+      maxTextureSize: _maxTexSize,
+      isTablet: _isTablet,
+      isPhone: _isPhone,
+      maxDpr: _maxDpr
+    };
+  }
+
+  window.FerrariDevice = {
+    detect: detect,
+    needsDownscale: needsDownscale,
+    getMaxWidth: getMaxWidth,
+    getTier: getTier,
+    isTablet: isTablet,
+    isPhone: isPhone,
+    getMaxDpr: getMaxDpr,
+    stepDown: stepDown,
+    setMaxTextureSize: setMaxTextureSize,
+    getOriginalWidth: getOriginalWidth,
+    getOriginalHeight: getOriginalHeight
+  };
+
+  console.log('[Ferrari/Device] ✓ Módulo cargado');
+
+})();
