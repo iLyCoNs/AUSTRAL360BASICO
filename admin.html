@@ -1322,6 +1322,7 @@
             <p class="brand-card-sub" style="margin:12px 0 0; font-size:11px;">
               <strong>Cómo obtener la API Key gratis:</strong> Agrega a tus contactos al bot de WhatsApp <strong>+34 621 34 22 27</strong> (o haz click <a href="https://wa.me/34621342227" target="_blank" style="color:var(--accent)">aquí</a>), mándale el mensaje <code>I allow callmebot to send me messages</code> y te devolverá tu clave de 6 dígitos al instante.
             </p>
+          </div>
 
           <div class="ecard" id="contact-platform-lock" style="padding:16px 18px;margin:0" hidden>
             <div class="ecard-title">Plataforma · Consigue tu 360 <span style="opacity:.5;font-weight:500;text-transform:none;letter-spacing:0">(ALT+X)</span></div>
@@ -1738,14 +1739,16 @@ function renderSidebar() {
 
 /* ══ SELECCIONAR ══ */
 function selectLote(id) {
-  if (typeof setAdminSection === 'function') setAdminSection('lotes');
   _cid = id;
+  if (typeof setAdminSection === 'function') setAdminSection('lotes');
   const l = _lotes.find(x => x.id === id);
   if (!l) return;
   if (!Array.isArray(l.fotos)) l.fotos = [];
   document.querySelectorAll('.lote-item').forEach(el => el.classList.toggle('active', el.dataset.id === id));
-  document.getElementById('ed-placeholder').style.display = 'none';
-  const f = document.getElementById('ed-form'); f.style.display = 'flex';
+  const ph = document.getElementById('ed-placeholder');
+  if (ph) { ph.hidden = true; ph.style.display = 'none'; }
+  const f = document.getElementById('ed-form');
+  if (f) { f.hidden = false; f.style.display = 'flex'; }
   document.getElementById('f-titulo').value = l.titulo || '';
   document.getElementById('f-dim').value    = l.dimensiones || '';
   document.getElementById('f-uf').value     = l.valorUF || '';
