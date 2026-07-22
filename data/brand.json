@@ -1,13 +1,16 @@
 {
-  "version": 2,
+  "version": 3,
   "projectName": "PROYECTO ALERCE PATAGÓN 360°",
   "logoPath": null,
   "logoId": null,
   "logos": [],
+  "titleBannerPath": "assets/brand/banners/title_mrw017wz.png",
+  "titleBannerHref": null,
+  "titleBannerScale": 200,
   "font": "montserrat",
   "dockStyle": "graphite",
-  "mobileSolid": true,
-  "hideLoteFill": false,
+  "mobileSolid": false,
+  "hideLoteFill": true,
   "loteFillOnHoverOnly": false,
   "loteHoverColor": "neon-green",
   "contact": {
@@ -23,5 +26,5 @@
     "waAlertsPhone": "",
     "waAlertsKey": ""
   },
-  "updatedAt": 1784634358697
+  "updatedAt": 1784719707731
 }
